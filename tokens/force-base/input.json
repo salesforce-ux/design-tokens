@@ -1,0 +1,122 @@
+{
+  "global": {
+    "type": "color"
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "COLOR_BACKGROUND_INPUT": {
+      "value": "{!LINK_WATER}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Default input field"
+    },
+    "COLOR_BACKGROUND_INPUT_ACTIVE": {
+      "value": "{!WHITE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Selected input field (when user has clicked or tabbed into field)"
+    },
+    "COLOR_BACKGROUND_INPUT_CHECKBOX": {
+      "value": "{!WHITE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Default checkboxes"
+    },
+    "COLOR_BACKGROUND_INPUT_CHECKBOX_DISABLED": {
+      "value": "{!GEYSER}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Disabled checkboxes"
+    },
+    "COLOR_BACKGROUND_INPUT_CHECKBOX_SELECTED": {
+      "value": "{!AZURE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Selected checkboxes"
+    },
+    "COLOR_BACKGROUND_INPUT_DISABLED": {
+      "value": "{!STEAM}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Disabled input"
+    },
+    "COLOR_BACKGROUND_INPUT_ERROR": {
+      "value": "{!PIPPIN}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for input field that has encountered an error."
+    },
+    "COLOR_BACKGROUND_INPUT_SEARCH": {
+      "value": "{!BLACK_TRANSPARENT_16}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for search input fields."
+    },
+    "COLOR_BACKGROUND_PILL": {
+      "value": "{!WHITE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for pills."
+    },
+    "COLOR_TEXT_LABEL": {
+      "value": "{!KASHMIR_BLUE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for field labels."
+    },
+    "COLOR_TEXT_PLACEHOLDER": {
+      "value": "{!KASHMIR_BLUE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Input placeholder text."
+    },
+    "COLOR_TEXT_PLACEHOLDER_INVERSE": {
+      "value": "{!STEAM}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Input placeholder text on dark backgrounds."
+    },
+    "COLOR_TEXT_REQUIRED": {
+      "value": "{!VALENCIA}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Color of required field marker."
+    },
+    "COLOR_TEXT_PILL": {
+      "value": "{!SCIENCE_BLUE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for pills."
+    },
+    "COLOR_BORDER_INPUT": {
+      "value": "{!GEYSER}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color on form elements."
+    },
+    "COLOR_BORDER_INPUT_ACTIVE": {
+      "value": "{!AZURE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color on active form elements."
+    },
+    "COLOR_BORDER_INPUT_DISABLED": {
+      "value": "{!CADET_BLUE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color on disabled form elements."
+    },
+    "COLOR_BORDER_INPUT_CHECKBOX_SELECTED_CHECKMARK": {
+      "value": "{!WHITE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "The borders to create the checkmark"
+    }
+  }
+}

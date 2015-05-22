@@ -1,0 +1,53 @@
+{
+  "global": {
+    "type": "size",
+    "category": "sizing",
+    "cssProperties": ["width", "height"]
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "SQUARE_ICON_LARGE_BOUNDARY": {
+      "value": "3rem",
+      "comment": "Anchor: Outer colored circle"
+    },
+    "SQUARE_ICON_LARGE_CONTENT": {
+      "value": "2rem",
+      "comment": "Anchor: Icon content (white shape)"
+    },
+    "SQUARE_ICON_MEDIUM": {
+      "value": "2.375rem",
+      "comment": "Use squareIconMediumBoundary",
+      "deprecated": true
+    },
+    "SQUARE_ICON_MEDIUM_BOUNDARY": {
+      "value": "2rem",
+      "comment": "Stage left & actions: Outer colored circle"
+    },
+    "SQUARE_ICON_MEDIUM_CONTENT": {
+      "value": "1rem",
+      "comment": "Stage left & actions: Icon content (white shape)"
+    },
+    "SQUARE_ICON_SMALL": {
+      "value": "1rem",
+      "type": "size",
+      "category": "misc",
+      "comment": "Small tap target size"
+    },
+    "SQUARE_ICON_SMALL_BOUNDARY": {
+      "value": "1.5rem",
+      "comment": "Search Results: Outer colored circle"
+    },
+    "SQUARE_ICON_SMALL_CONTENT": {
+      "value": ".75rem",
+      "comment": "Search Results: Icon content (white shape)"
+    },
+    "SQUARE_ICON_LARGE": {
+      "value": "3.125rem",
+      "type": "size",
+      "category": "misc",
+      "comment": "Large tap target size"
+    }
+  }
+}

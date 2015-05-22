@@ -1,0 +1,37 @@
+{
+  "global": {
+    "type": "number",
+    "category": "atmosphere",
+    "cssProperties": "box-shadow"
+  },
+  "props": {
+    "ELEVATION_3_BELOW": {
+      "value": "-3",
+      "comment": "-3 elevation"
+    },
+    "ELEVATION_0": {
+      "value": "0",
+      "comment": "0 elevation"
+    },
+    "ELEVATION_2": {
+      "value": "2",
+      "comment": "2 elevation"
+    },
+    "ELEVATION_4": {
+      "value": "4",
+      "comment": "4 elevation"
+    },
+    "ELEVATION_8": {
+      "value": "8",
+      "comment": "8 elevation"
+    },
+    "ELEVATION_16": {
+      "value": "16",
+      "comment": "16 elevation"
+    },
+    "ELEVATION_32": {
+      "value": "32",
+      "comment": "32 elevation"
+    }
+  }
+}

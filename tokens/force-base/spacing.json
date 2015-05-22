@@ -1,0 +1,31 @@
+{
+  "global": {
+    "category": "spacing",
+    "type": "size",
+    "comment": "",
+    "cssProperties": ["margin", "margin-top", "margin-right", "margin-bottom", "margin-left", "padding", "padding-top", "padding-right", "padding-bottom", "padding-left"]
+  },
+  "props": {
+    "SPACING_XXX_SMALL": {
+      "value": "0.125rem"
+    },
+    "SPACING_XX_SMALL": {
+      "value": "0.25rem"
+    },
+    "SPACING_X_SMALL": {
+      "value": "0.5rem"
+    },
+    "SPACING_SMALL": {
+      "value": "0.75rem"
+    },
+    "SPACING_MEDIUM": {
+      "value": "1rem"
+    },
+    "SPACING_LARGE": {
+      "value": "1.5rem"
+    },
+    "SPACING_X_LARGE": {
+      "value": "2rem"
+    }
+  }
+}

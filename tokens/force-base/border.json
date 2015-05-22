@@ -1,0 +1,176 @@
+{
+  "global": {
+    "comment": ""
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "BORDER_WIDTH_THIN": {
+      "value": "1px",
+      "type": "size",
+      "cssProperties": ["border", "border-width", "border-top-width", "border-right-width", "border-bottom-width", "border-left-width"],
+      "category": "spacing"
+    },
+    "BORDER_WIDTH_THICK": {
+      "value": "2px",
+      "type": "size",
+      "cssProperties": ["border", "border-width", "border-top-width", "border-right-width", "border-bottom-width", "border-left-width"],
+      "category": "spacing"
+    },
+    "BORDER_RADIUS_SMALL": {
+      "value": ".125rem",
+      "type": "size",
+      "cssProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-bottom-left-radius"],
+      "category": "radius"
+    },
+    "BORDER_RADIUS_MEDIUM": {
+      "value": ".25rem",
+      "category": "radius",
+      "type": "size",
+      "cssProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-bottom-left-radius"],
+      "comment": "Icons in lists, record home icon, unbound input elements"
+    },
+    "BORDER_RADIUS_LARGE": {
+      "value": ".5rem",
+      "type": "size",
+      "cssProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-bottom-left-radius"],
+      "category": "radius"
+    },
+    "BORDER_RADIUS_PILL": {
+      "value": "15rem",
+      "type": "size",
+      "cssProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-bottom-left-radius"],
+      "category": "radius"
+    },
+    "BORDER_RADIUS_CIRCLE": {
+      "value": "50%",
+      "type": "size",
+      "category": "radius",
+      "cssProperties": ["border-radius", "border-top-left-radius", "border-top-right-radius", "border-bottom-right-radius", "border-bottom-left-radius"],
+      "comment": "Circle for global use, action icon bgd shape"
+    },
+
+
+    "COLOR_BORDER": {
+      "value": "{!GEYSER}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Default border color for UI elements."
+    },
+    "COLOR_BORDER_BRAND": {
+      "value": "{!SCIENCE_BLUE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Branded border color."
+    },
+    "COLOR_BORDER_ERROR": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for UI elements that have to do with errors."
+    },
+    "COLOR_BORDER_SUCCESS": {
+      "value": "{!EMERALD}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for UI elements that have to do with success."
+    },
+    "COLOR_BORDER_WARNING": {
+      "value": "{!KOROMIKO}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for UI elements that have to do with warnings."
+    },
+    "COLOR_BORDER_TAB_SELECTED": {
+      "value": "{!SCIENCE_BLUE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for a selected tab in a tab group."
+    },
+
+
+    "COLOR_BORDER_SEPARATOR": {
+      "value": "{!LINK_WATER}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Lightest separator color - used as default separator on white backgrounds."
+    },
+    "COLOR_BORDER_SEPARATOR_ALT": {
+      "value": "{!GEYSER}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Medium separator color - used as default separator on light gray backgrounds."
+    },
+    "COLOR_BORDER_SEPARATOR_ALT_2": {
+      "value": "{!CADET_BLUE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Darkest separator color - used as an alternate separator color when more differentiation is desired."
+    },
+    "COLOR_BORDER_SEPARATOR_INVERSE": {
+      "value": "{!SAN_JUAN}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used as a separator on dark backgrounds, such as stage left navigation."
+    },
+    "COLOR_BORDER_ROW_SELECTED": {
+      "value": "{!SCIENCE_BLUE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used as the border color for selected rows or items on list-like components."
+    },
+    "COLOR_BORDER_ROW_SELECTED_HOVER": {
+      "value": "{!AZURE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used as the border color for the hover state on selected rows or items on list-like components."
+    },
+
+
+    "COLOR_BORDER_HINT": {
+      "value": "{!SAN_JUAN}",
+      "type": "color",
+      "category": "border-color",
+      "specificity": "builders",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used to delineate the boundary of a specific region. Specific to builders."
+    },
+    "COLOR_BORDER_SELECTION": {
+      "value": "{!SCIENCE_BLUE}",
+      "type": "color",
+      "category": "border-color",
+      "specificity": "builders",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used to delineate the boundary of a selected component. Specific to builders."
+    },
+    "COLOR_BORDER_SELECTION_HOVER": {
+      "value": "{!AZURE}",
+      "type": "color",
+      "category": "border-color",
+      "specificity": "builders",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used to delineate the boundary of a component that is being hovered over. Specific to builders."
+    },
+    "COLOR_BORDER_SELECTION_ACTIVE": {
+      "value": "{!LINK_WATER}",
+      "type": "color",
+      "category": "border-color",
+      "specificity": "builders",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used to delineate the boundary of a component that is being clicked. Specific to builders."
+    }
+  }
+}

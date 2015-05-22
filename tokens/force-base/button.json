@@ -1,0 +1,276 @@
+{
+  "global": {
+    "type": "color",
+    "comment": ""
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "COLOR_TEXT_BUTTON_BRAND": {
+      "value": "{!WHITE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for brandable primary button"
+    },
+    "COLOR_TEXT_BUTTON_BRAND_HOVER": {
+      "value": "{!WHITE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for brandable primary button - hover state"
+    },
+    "COLOR_TEXT_BUTTON_BRAND_ACTIVE": {
+      "value": "{!WHITE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for brandable primary button - active state"
+    },
+    "COLOR_TEXT_BUTTON_BRAND_DISABLED": {
+      "value": "{!WHITE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for brandable primary button - disabled state"
+    },
+    "COLOR_TEXT_BUTTON_DEFAULT": {
+      "value": "{!SCIENCE_BLUE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for default secondary button"
+    },
+    "COLOR_TEXT_BUTTON_DEFAULT_HOVER": {
+      "value": "{!SCIENCE_BLUE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for default secondary button - hover state"
+    },
+    "COLOR_TEXT_BUTTON_DEFAULT_ACTIVE": {
+      "value": "{!SCIENCE_BLUE}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for default secondary button - active state"
+    },
+    "COLOR_TEXT_BUTTON_DEFAULT_DISABLED": {
+      "value": "{!STEAM}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for default secondary button - disabled state"
+    },
+    "COLOR_TEXT_BUTTON_DEFAULT_HINT": {
+      "value": "{!CASPER}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
+    },
+    "COLOR_TEXT_BUTTON_INVERSE": {
+      "value": "{!STEAM}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
+    },
+    "COLOR_TEXT_BUTTON_INVERSE_DISABLED": {
+      "value": "{!WHITE_TRANSPARENT_15}",
+      "category": "text-color",
+      "cssProperties": "color",
+      "comment": "Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
+    },
+    "COLOR_TEXT_ICON_DEFAULT": {
+      "value": "{!KASHMIR_BLUE}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Default icon color."
+    },
+    "COLOR_TEXT_ICON_DEFAULT_HINT": {
+      "value": "{!CASPER}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Icon color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
+    },
+    "COLOR_TEXT_ICON_DEFAULT_HOVER": {
+      "value": "{!SCIENCE_BLUE}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Default icon color - hover state."
+    },
+    "COLOR_TEXT_ICON_DEFAULT_ACTIVE": {
+      "value": "{!MIDNIGHT_BLUE}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Default icon color - active state."
+    },
+    "COLOR_TEXT_ICON_DEFAULT_DISABLED": {
+      "value": "{!STEAM}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Default icon color - disabled state"
+    },
+    "COLOR_TEXT_ICON_INVERSE": {
+      "value": "{!WHITE}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Icon color on dark background"
+    },
+    "COLOR_TEXT_ICON_INVERSE_HOVER": {
+      "value": "{!WHITE}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Icon color on dark background - hover state"
+    },
+    "COLOR_TEXT_ICON_INVERSE_ACTIVE": {
+      "value": "{!WHITE}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Icon color on dark background - active state"
+    },
+    "COLOR_TEXT_ICON_INVERSE_DISABLED": {
+      "value": "{!WHITE_TRANSPARENT_15}",
+      "category": "text-color",
+      "cssProperties": ["color", "fill"],
+      "comment": "Icon color on dark background - disabled state"
+    },
+
+
+
+
+    "COLOR_BACKGROUND_BUTTON_BRAND": {
+      "value": "{!SCIENCE_BLUE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Brandable primary button"
+    },
+    "COLOR_BACKGROUND_BUTTON_BRAND_ACTIVE": {
+      "value": "{!MIDNIGHT_BLUE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Brandable primary button - active state"
+    },
+    "COLOR_BACKGROUND_BUTTON_BRAND_HOVER": {
+      "value": "{!ENDEAVOUR}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Brandable primary button - hover state"
+    },
+    "COLOR_BACKGROUND_BUTTON_BRAND_DISABLED": {
+      "value": "{!STEAM}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Brandable primary button - disabled state"
+    },
+    "COLOR_BACKGROUND_BUTTON_DEFAULT": {
+      "value": "{!WHITE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Default secondary button"
+    },
+    "COLOR_BACKGROUND_BUTTON_DEFAULT_HOVER": {
+      "value": "{!LINK_WATER}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Default secondary button - hover state"
+    },
+    "COLOR_BACKGROUND_BUTTON_DEFAULT_FOCUS": {
+      "value": "{!LINK_WATER}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Default secondary button - focus state"
+    },
+    "COLOR_BACKGROUND_BUTTON_DEFAULT_ACTIVE": {
+      "value": "{!WHITE_LILAC}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Default secondary button - active state"
+    },
+    "COLOR_BACKGROUND_BUTTON_DEFAULT_DISABLED": {
+      "value": "{!WHITE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Default secondary button - disabled state"
+    },
+    "COLOR_BACKGROUND_BUTTON_ICON": {
+      "value": "{!TRANSPARENT}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for icon-only button"
+    },
+    "COLOR_BACKGROUND_BUTTON_ICON_HOVER": {
+      "value": "{!LINK_WATER}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for icon-only button - hover state"
+    },
+    "COLOR_BACKGROUND_BUTTON_ICON_FOCUS": {
+      "value": "{!LINK_WATER}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for icon-only button - focus state"
+    },
+    "COLOR_BACKGROUND_BUTTON_ICON_ACTIVE": {
+      "value": "{!WHITE_LILAC}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for icon-only button - active state"
+    },
+    "COLOR_BACKGROUND_BUTTON_ICON_DISABLED": {
+      "value": "{!WHITE}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Background color for icon-only button - disabled state"
+    },
+    "COLOR_BACKGROUND_BUTTON_INVERSE": {
+      "value": "{!TRANSPARENT}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Button backgrounds on inverse/dark backgrounds"
+    },
+    "COLOR_BACKGROUND_BUTTON_INVERSE_ACTIVE": {
+      "value": "{!BLACK_TRANSPARENT_24}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Active button backgrounds on inverse backgrounds on mobile"
+    },
+    "COLOR_BACKGROUND_BUTTON_INVERSE_DISABLED": {
+      "value": "{!TRANSPARENT}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Disabled button backgrounds on inverse/dark backgrounds"
+    },
+    "COLOR_BACKGROUND_MODAL_BUTTON": {
+      "value": "{!BLACK_TRANSPARENT_07}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Button backgrounds on modal headers"
+    },
+    "COLOR_BACKGROUND_MODAL_BUTTON_ACTIVE": {
+      "value": "{!BLACK_TRANSPARENT_16}",
+      "category": "background-color",
+      "cssProperties": ["background", "background-color"],
+      "comment": "Active button backgrounds on modal headers"
+    },
+
+
+
+    "COLOR_BORDER_BUTTON_BRAND": {
+      "value": "{!TRANSPARENT}",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for brandable primary button"
+    },
+    "COLOR_BORDER_BUTTON_BRAND_DISABLED": {
+      "value": "{!TRANSPARENT}",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for brandable primary button - disabled state"
+    },
+    "COLOR_BORDER_BUTTON_DEFAULT": {
+      "value": "{!GEYSER}",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for default secondary button"
+    },
+    "COLOR_BORDER_BUTTON_INVERSE_DISABLED": {
+      "value": "{!WHITE_TRANSPARENT_15}",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for default secondary button"
+    }
+  }
+}

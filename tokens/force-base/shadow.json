@@ -1,0 +1,44 @@
+{
+  "global": {
+    "type": "shadow",
+    "category": "shadow",
+    "cssProperties": "box-shadow"
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "SHADOW_ACTION_OVERFLOW_FOOTER": {
+      "value": "0 -2px 4px {!LINK_WATER}",
+      "comment": "Shadow above overflow menu close bar. Consolidate into shadowOverlay?"
+    },
+    "SHADOW_OVERLAY": {
+      "value": "0 -2px 4px {!BLACK_TRANSPARENT_07}",
+      "comment": "Shadow for overlays."
+    },
+    "SHADOW_DRAG": {
+      "value": "0px 2px 4px 0px {!BLACK_TRANSPARENT_40}",
+      "comment": "Shadow for drag-n-drop."
+    },
+    "SHADOW_BUTTON": {
+      "value": "0px 1px 1px 0px {!BLACK_TRANSPARENT_05}",
+      "comment": "Shadow for buttons."
+    },
+    "SHADOW_DROP_DOWN": {
+      "value": "0px 2px 3px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "Shadow for drop down."
+    },
+    "SHADOW_HEADER": {
+      "value": "0 2px 4px {!BLACK_TRANSPARENT_07}",
+      "comment": "Shadow for header."
+    },
+    "SHADOW_BUTTON_FOCUS": {
+      "value": "0 0 3px {!SCIENCE_BLUE}",
+      "comment": "Custom glow for focus states on UI elements with explicit containers."
+    },
+    "SHADOW_BUTTON_FOCUS_INVERSE": {
+      "value": "0 0 3px {!STEAM}",
+      "comment": "Custom glow for focus states on UI elements with explicit containers on dark or vibrantly colored backgrounds."
+    }
+  }
+}
