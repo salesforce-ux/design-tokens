@@ -11,7 +11,7 @@
   "scripts": {
     "start": "gulp dev",
     "lint": "gulp lint",
-    "props": "gulp tokens",
+    "tokens": "gulp tokens",
     "prepublish": "npm run tokens"
   },
   "devDependencies": {
