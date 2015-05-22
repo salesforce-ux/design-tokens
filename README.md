@@ -13,7 +13,7 @@ npm install
 ## Generate Design Tokens
 
 ```bash
-npm run props
+npm run tokens
 ```
 
 View the `./dist` directory for the generated output
