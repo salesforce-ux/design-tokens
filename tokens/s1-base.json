@@ -14,7 +14,7 @@
       "comment": "Stage left small form factor. NOTE: This is also in oneHelper.js for JavaScript, if you change this, change that."
     },
     "HEIGHT_FOOTER": {
-      "value": "3.25rem",
+      "value": "3.75rem",
       "type": "size",
       "category": "misc",
       "cssProperties": "height",
