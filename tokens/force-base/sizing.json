@@ -22,7 +22,11 @@
     },
     "SQUARE_ICON_LARGE_BOUNDARY": {
       "value": "3rem",
-      "comment": "Anchor: Outer colored circle"
+      "comment": "Anchor: Outer colored tile"
+    },
+    "SQUARE_ICON_LARGE_BOUNDARY_ALT": {
+      "value": "5rem",
+      "comment": "Anchor: avatar"
     },
     "SQUARE_ICON_LARGE_CONTENT": {
       "value": "2rem",
@@ -35,7 +39,7 @@
     },
     "SQUARE_ICON_MEDIUM_BOUNDARY": {
       "value": "2rem",
-      "comment": "Stage left & actions: Outer colored circle"
+      "comment": "Stage left & actions: Outer colored tile"
     },
     "SQUARE_ICON_MEDIUM_BOUNDARY_ALT": {
       "value": "2.25rem",
@@ -53,7 +57,7 @@
     },
     "SQUARE_ICON_SMALL_BOUNDARY": {
       "value": "1.5rem",
-      "comment": "Search Results: Outer colored circle"
+      "comment": "Search Results: Outer colored tile"
     },
     "SQUARE_ICON_SMALL_CONTENT": {
       "value": ".75rem",
