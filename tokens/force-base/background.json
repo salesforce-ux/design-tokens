@@ -60,10 +60,6 @@
       "value": "{!TANGERINE}",
       "comment": "Background color for UI elements related to the concept of an external user or customer."
     },
-    "COLOR_BACKGROUND_DASHBOARD_EDIT_TOOLBAR": {
-      "value": "{!ENDEAVOUR}",
-      "comment": "Background color for the toolbar on a Dashboard when the user is in Edit mode."
-    },
     "COLOR_BACKGROUND_HIGHLIGHT": {
       "value": "{!LEMON_CHIFFON}",
       "comment": "Background color for highlighting text."
