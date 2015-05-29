@@ -10,15 +10,15 @@
   "props": {
     "SQUARE_ICON_UTILITY_SMALL": {
       "value": "1rem",
-      "comment": "Small utility icon."
+      "comment": "Small utility icon without border."
     },
     "SQUARE_ICON_UTILITY_MEDIUM": {
       "value": "1.25rem",
-      "comment": "Medium utility icon."
+      "comment": "Medium utility icon without border."
     },
     "SQUARE_ICON_UTILITY_LARGE": {
       "value": "1.5rem",
-      "comment": "Large utility icon."
+      "comment": "Large utility icon without border."
     },
     "SQUARE_ICON_LARGE_CONTENT": {
       "value": "2rem",
@@ -35,7 +35,7 @@
     },
     "SQUARE_ICON_MEDIUM_BOUNDARY_ALT": {
       "value": "2.25rem",
-      "comment": "Icon buttons."
+      "comment": "Icon button boundary."
     },
     "SQUARE_ICON_MEDIUM_CONTENT": {
       "value": "1rem",
