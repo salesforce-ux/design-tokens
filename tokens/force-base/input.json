@@ -7,7 +7,7 @@
   ],
   "props": {
     "COLOR_BACKGROUND_INPUT": {
-      "value": "{!LINK_WATER}",
+      "value": "{!WHITE}",
       "category": "background-color",
       "cssProperties": ["background", "background-color"],
       "comment": "Default input field"
