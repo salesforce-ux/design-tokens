@@ -8,9 +8,21 @@
     "./aliases.json"
   ],
   "props": {
-    "SQUARE_ICON_LARGE_BOUNDARY": {
-      "value": "3rem",
-      "comment": "Anchor: Outer colored circle"
+    "SQUARE_ICON_UTILITY_TINY": {
+      "value": "0.75rem",
+      "comment": "Small utility icon."
+    },
+    "SQUARE_ICON_UTILITY_SMALL": {
+      "value": "1rem",
+      "comment": "Small utility icon."
+    },
+    "SQUARE_ICON_UTILITY_MEDIUM": {
+      "value": "1.25rem",
+      "comment": "Medium utility icon."
+    },
+    "SQUARE_ICON_UTILITY_LARGE": {
+      "value": "1.5rem",
+      "comment": "Large utility icon."
     },
     "SQUARE_ICON_LARGE_CONTENT": {
       "value": "2rem",
