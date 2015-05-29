@@ -8,10 +8,6 @@
     "./aliases.json"
   ],
   "props": {
-    "SQUARE_ICON_UTILITY_TINY": {
-      "value": "0.75rem",
-      "comment": "Small utility icon."
-    },
     "SQUARE_ICON_UTILITY_SMALL": {
       "value": "1rem",
       "comment": "Small utility icon."
@@ -37,6 +33,10 @@
       "value": "2rem",
       "comment": "Stage left & actions: Outer colored circle"
     },
+    "SQUARE_ICON_MEDIUM_BOUNDARY_ALT": {
+      "value": "2.25rem",
+      "comment": "Icon buttons."
+    },
     "SQUARE_ICON_MEDIUM_CONTENT": {
       "value": "1rem",
       "comment": "Stage left & actions: Icon content (white shape)"
@@ -54,6 +54,14 @@
     "SQUARE_ICON_SMALL_CONTENT": {
       "value": ".75rem",
       "comment": "Search Results: Icon content (white shape)"
+    },
+    "SQUARE_ICON_X_SMALL_BOUNDARY": {
+      "value": "1.25rem",
+      "comment": "Very small icon button boundary."
+    },
+    "SQUARE_ICON_X_SMALL_CONTENT": {
+      "value": ".5rem",
+      "comment": "Very small icons in icon buttons."
     },
     "SQUARE_ICON_LARGE": {
       "value": "3.125rem",
