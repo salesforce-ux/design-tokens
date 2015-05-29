@@ -20,6 +20,10 @@
       "value": "1.5rem",
       "comment": "Large utility icon without border."
     },
+    "SQUARE_ICON_LARGE_BOUNDARY": {
+      "value": "3rem",
+      "comment": "Anchor: Outer colored circle"
+    },
     "SQUARE_ICON_LARGE_CONTENT": {
       "value": "2rem",
       "comment": "Anchor: Icon content (white shape)"
