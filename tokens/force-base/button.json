@@ -249,7 +249,7 @@
 
 
     "COLOR_BORDER_BUTTON_BRAND": {
-      "value": "{!TRANSPARENT}",
+      "value": "{!SCIENCE_BLUE}",
       "category": "border-color",
       "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Border color for brandable primary button"
