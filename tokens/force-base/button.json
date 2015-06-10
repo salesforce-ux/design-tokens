@@ -270,7 +270,7 @@
       "value": "{!WHITE_TRANSPARENT_15}",
       "category": "border-color",
       "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
-      "comment": "Border color for default secondary button"
+      "comment": "Border color for disabled inverse button."
     }
   }
 }

@@ -42,7 +42,7 @@
     },
     "COLOR_BACKGROUND_INVERSE": {
       "value": "{!DEEP_COVE}",
-      "comment": "Default background color for dark portions of the app (like Stage Left)."
+      "comment": "Default background color for dark portions of the app (like Stage Left or tooltips)."
     },
     "COLOR_BACKGROUND_ANCHOR": {
       "value": "{!LINK_WATER}",
@@ -123,7 +123,7 @@
     },
     "COLOR_BACKGROUND_TEMP_MODAL": {
       "value": "{!REGENT_GREY_TRANSPARENT_80}",
-      "comment": "Used as the default background color for temporary dialog elements, such as the progress spinner background or user assistance tooltips."
+      "comment": "Used as the default background color for temporary dialog elements, such as the progress spinner background."
     },
     "COLOR_BACKGROUND_TEMP_MODAL_TINT": {
       "value": "{!REGENT_GREY_TRANSPARENT_80}",
