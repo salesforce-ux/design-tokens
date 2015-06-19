@@ -64,7 +64,7 @@
       "category": "font-size"
     },
     "FONT_SIZE_LARGE": {
-      "value": "1.125rem",
+      "value": "1.25rem",
       "type": "size",
       "cssProperties": ["font", "font-size"],
       "category": "font-size"
@@ -80,6 +80,43 @@
       "type": "size",
       "cssProperties": ["font", "font-size"],
       "category": "font-size"
+    },
+
+
+    "LINE_HEIGHT_HEADING": {
+      "value": "1.25",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Unitless line-heights for reusabliity"
+    },
+    "LINE_HEIGHT_TEXT": {
+      "value": "1.375",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Unitless line-heights for reusabliity"
+    },
+    "LINE_HEIGHT_RESET": {
+      "value": "1",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Remove extra leading. Unitless line-heights for reusabliity"
+    },
+    "LINE_HEIGHT_BUTTON": {
+      "value": "2.125rem",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Line heights for regular buttons"
+    },
+    "LINE_HEIGHT_BUTTON_SMALL": {
+      "value": "1.875rem",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Line heights for small buttons"
     }
   }
 }

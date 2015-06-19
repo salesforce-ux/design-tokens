@@ -10,11 +10,30 @@
       "cssProperties": ["background", "background-color"],
       "comment": "Notifications badge background color."
     },
+    "FONT_SIZE_SMALL": {
+      "value": "0.75rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
     "FONT_SIZE_MEDIUM": {
       "value": "0.875rem",
       "type": "size",
       "cssProperties": ["font", "font-size"],
       "category": "font-size"
+    },
+    "FONT_SIZE_LARGE": {
+      "value": "1.125rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "LINE_HEIGHT_TEXT": {
+      "value": "1.5",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Unitless line-heights for reusabliity"
     },
     "WIDTH_STAGE_LEFT_COLLAPSED": {
       "value": "4rem",
