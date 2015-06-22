@@ -53,7 +53,11 @@
     },
     "COLOR_TEXT_INVERSE": {
       "value": "{!WHITE}",
-      "comment": "Inverse text color for inverse backgrounds"
+      "comment": "Inverse text color for dark backgrounds"
+    },
+    "COLOR_TEXT_INVERSE_WEAK": {
+      "value": "{!CASPER}",
+      "comment": "Weak inverse text color for dark backgrounds"
     },
     "COLOR_TEXT_INVERSE_ACTIVE": {
       "value": "{!MALIBU}",
@@ -157,43 +161,6 @@
       "value": "{!SCIENCE_BLUE}",
       "cssProperties": ["color", "fill"],
       "comment": "Color for non-interactive icons that represent a selected item in a list"
-    },
-
-
-    "LINE_HEIGHT_HEADING": {
-      "value": "1.25",
-      "type": "number",
-      "category": "line-height",
-      "cssProperties": ["font", "line-height"],
-      "comment": "Unitless line-heights for reusabliity"
-    },
-    "LINE_HEIGHT_TEXT": {
-      "value": "1.5",
-      "type": "number",
-      "category": "line-height",
-      "cssProperties": ["font", "line-height"],
-      "comment": "Unitless line-heights for reusabliity"
-    },
-    "LINE_HEIGHT_RESET": {
-      "value": "1",
-      "type": "number",
-      "category": "line-height",
-      "cssProperties": ["font", "line-height"],
-      "comment": "Remove extra leading. Unitless line-heights for reusabliity"
-    },
-    "LINE_HEIGHT_BUTTON": {
-      "value": "2.125rem",
-      "type": "number",
-      "category": "line-height",
-      "cssProperties": ["font", "line-height"],
-      "comment": "Line heights for regular buttons"
-    },
-    "LINE_HEIGHT_BUTTON_SMALL": {
-      "value": "1.875rem",
-      "type": "number",
-      "category": "line-height",
-      "cssProperties": ["font", "line-height"],
-      "comment": "Line heights for small buttons"
     }
   }
 }
