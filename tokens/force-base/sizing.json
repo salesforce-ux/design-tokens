@@ -2,12 +2,38 @@
   "global": {
     "type": "size",
     "category": "sizing",
-    "cssProperties": ["width", "height"]
+    "cssProperties": ["width", "height", "min-width", "max-width", "min-height", "max-height"]
   },
   "imports": [
     "./aliases.json"
   ],
   "props": {
+    "SIZE_X_SMALL": {
+      "value": "12rem",
+      "comment": "Generic sizing token scale for UI components."
+    },
+    "SIZE_SMALL": {
+      "value": "15rem",
+      "comment": "Generic sizing token scale for UI components."
+    },
+    "SIZE_X_SMALL": {
+      "value": "20rem",
+      "comment": "Generic sizing token scale for UI components."
+    },
+    "SIZE_X_SMALL": {
+      "value": "25rem",
+      "comment": "Generic sizing token scale for UI components."
+    },
+    "SIZE_X_SMALL": {
+      "value": "40rem",
+      "comment": "Generic sizing token scale for UI components."
+    },
+    "SIZE_X_SMALL": {
+      "value": "60rem",
+      "comment": "Generic sizing token scale for UI components."
+    },
+
+    
     "SQUARE_ICON_UTILITY_SMALL": {
       "value": "1rem",
       "comment": "Small utility icon without border."
