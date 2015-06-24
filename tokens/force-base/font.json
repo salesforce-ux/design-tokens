@@ -36,12 +36,12 @@
       "type": "font"
     },
     "FONT_WEIGHT_REGULAR": {
-      "value": "500",
+      "value": "400",
       "cssProperties": ["font", "font-weight"],
       "type": "font"
     },
     "FONT_WEIGHT_BOLD": {
-      "value": "600",
+      "value": "700",
       "cssProperties": ["font", "font-weight"],
       "type": "font"
     },
