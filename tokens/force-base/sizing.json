@@ -16,19 +16,19 @@
       "value": "15rem",
       "comment": "Generic sizing token scale for UI components."
     },
-    "SIZE_X_SMALL": {
+    "SIZE_MEDIUM": {
       "value": "20rem",
       "comment": "Generic sizing token scale for UI components."
     },
-    "SIZE_X_SMALL": {
+    "SIZE_LARGE": {
       "value": "25rem",
       "comment": "Generic sizing token scale for UI components."
     },
-    "SIZE_X_SMALL": {
+    "SIZE_X_LARGE": {
       "value": "40rem",
       "comment": "Generic sizing token scale for UI components."
     },
-    "SIZE_X_SMALL": {
+    "SIZE_XX_LARGE": {
       "value": "60rem",
       "comment": "Generic sizing token scale for UI components."
     },
