@@ -50,7 +50,7 @@
       "comment": "Stage left for desktop when open."
     },
     "HEIGHT_HEADER": {
-      "value":"3.25rem",
+      "value":"3.75rem",
       "type": "size",
       "category": "misc",
       "cssProperties": "height",

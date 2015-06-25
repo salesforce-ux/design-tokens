@@ -56,6 +56,10 @@
       "value": "{!SCIENCE_BLUE}",
       "comment": "Background color for default mobile chrome (ex. global header)"
     },
+    "COLOR_BACKGROUND_CHROME_DESKTOP": {
+      "value": "{!WHITE}",
+      "comment": "Background color for default desktop chrome (ex. global header)"
+    },
     "COLOR_BACKGROUND_CUSTOMER": {
       "value": "{!TANGERINE}",
       "comment": "Background color for UI elements related to the concept of an external user or customer."
