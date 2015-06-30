@@ -12,7 +12,8 @@
     "./force-base/sizing.json",
     "./force-base/spacing.json",
     "./force-base/text.json",
-    "./force-base/time.json"
+    "./force-base/time.json",
+    "./force-base/z-index.json"
   ],
   "auraImports": ["force:mqCommons", "force:fontCommons"]
 }
