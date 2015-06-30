@@ -34,7 +34,7 @@
       "comment": "Default"
     },
     "Z_INDEX_DEEPDIVE": {
-      "value": "-99999;",
+      "value": "-99999",
       "comment": "Deep dive"
     }
   }
