@@ -3,13 +3,6 @@
     "./force-base/aliases.json"
   ],
   "props": {
-    "COLOR_BACKGROUND_NOTIFICATION_BADGE": {
-      "value": "{!SCIENCE_BLUE}",
-      "type": "color",
-      "category": "background-color",
-      "cssProperties": ["background", "background-color"],
-      "comment": "Notifications badge background color."
-    },
     "FONT_SIZE_SMALL": {
       "value": "0.75rem",
       "type": "size",
