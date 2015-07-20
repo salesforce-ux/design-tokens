@@ -8,6 +8,10 @@
     "./aliases.json"
   ],
   "props": {
+    "SIZE_XX_SMALL": {
+      "value": "6rem",
+      "comment": "Generic sizing token scale for UI components."
+    },
     "SIZE_X_SMALL": {
       "value": "12rem",
       "comment": "Generic sizing token scale for UI components."
