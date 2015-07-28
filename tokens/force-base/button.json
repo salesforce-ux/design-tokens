@@ -50,7 +50,7 @@
       "comment": "Text color for default secondary button - active state"
     },
     "COLOR_TEXT_BUTTON_DEFAULT_DISABLED": {
-      "value": "{!STEAM}",
+      "value": "{!GEYSER}",
       "category": "text-color",
       "cssProperties": "color",
       "comment": "Text color for default secondary button - disabled state"
@@ -98,7 +98,7 @@
       "comment": "Default icon color - active state."
     },
     "COLOR_TEXT_ICON_DEFAULT_DISABLED": {
-      "value": "{!STEAM}",
+      "value": "{!GEYSER}",
       "category": "text-color",
       "cssProperties": ["color", "fill"],
       "comment": "Default icon color - disabled state"
