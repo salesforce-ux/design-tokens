@@ -171,6 +171,22 @@
       "specificity": "builders",
       "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used to delineate the boundary of a component that is being clicked. Specific to builders."
+    },
+    "COLOR_BORDER_CANVAS_ELEMENT_SELECTION": {
+      "value": "{!MALIBU}",
+      "type": "color",
+      "category": "border-color",
+      "specificity": "builders",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used to delineate the boundary of a selected canvas element. Specific to builders."
+    },
+    "COLOR_BORDER_CANVAS_ELEMENT_SELECTION_HOVER": {
+      "value": "{!ENDEAVOUR}",
+      "type": "color",
+      "category": "border-color",
+      "specificity": "builders",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Used to delineate the boundary of a selected canvas element that is being hovered over. Specific to builders."
     }
   }
 }

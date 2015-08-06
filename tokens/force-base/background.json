@@ -133,6 +133,10 @@
       "value": "{!REGENT_GREY_TRANSPARENT_80}",
       "comment": "The color of the mask overlay that appears when you enter a modal state."
     },
+    "COLOR_BACKGROUND_TEMP_MODAL_TINT_ALT": {
+      "value": "{!WHITE_TRANSPARENT_75}",
+      "comment": "The color of the mask overlay that appears when you enter a modal state."
+    },
     "COLOR_BACKGROUND_SCROLLBAR": {
       "value": "{!STEAM}",
       "comment": "The background color of an internal scrollbar."
@@ -144,6 +148,10 @@
     "COLOR_BRAND": {
       "value": "{!AZURE}",
       "comment": "Our product brand blue."
+    },
+    "COLOR_BRAND_DARK": {
+      "value": "{!SCIENCE_BLUE}",
+      "comment": "Our product brand blue, darkened to meet accessibility color contrast ratios with white text."
     }
   }
 }
