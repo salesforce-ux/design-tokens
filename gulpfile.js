@@ -32,8 +32,18 @@ gulp.task('clean', function(done) {
 
 var convertOptions = _({
   'web': [
-    'styl', 'less', 'scss', 'map.scss', 'html', 'json',
-    'common.js', 'amd.js', 'aura.theme'
+    'styl',
+    'less',
+    'sass',
+    'default.sass',
+    'scss',
+    'default.scss',
+    'map.scss',
+    'html',
+    'json',
+    'common.js',
+    'amd.js',
+    'aura.theme'
   ],
   'ios': ['ios.json'],
   'android': ['android.xml']
