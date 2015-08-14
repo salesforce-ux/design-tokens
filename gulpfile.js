@@ -39,6 +39,7 @@ var convertOptions = _({
     'scss',
     'default.scss',
     'map.scss',
+    'map.variables.scss',
     'html',
     'json',
     'common.js',
