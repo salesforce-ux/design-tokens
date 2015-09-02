@@ -1,0 +1,132 @@
+{
+  "global": {
+    "category": "font",
+    "comment": ""
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "FONT_FAMILY": {
+      "value": "'Salesforce Sans', Arial, sans-serif",
+      "type": "font",
+      "cssProperties": ["font", "font-family"]
+    },
+    "FONT_FAMILY_BODY": {
+      "value": "'SalesforceSans-Regular', Arial, sans-serif",
+      "type": "font",
+      "cssProperties": ["font", "font-family"],
+      "deprecated": true
+    },
+    "FONT_FAMILY_LIGHT": {
+      "value": "'SalesforceSans-Light', Arial, sans-serif",
+      "type": "font",
+      "cssProperties": ["font", "font-family"],
+      "deprecated": true
+    },
+    "FONT_FAMILY_STRONG": {
+      "value": "'SalesforceSans-Bold', Arial, sans-serif",
+      "type": "font",
+      "cssProperties": ["font", "font-family"],
+      "deprecated": true
+    },
+    "FONT_WEIGHT_LIGHT": {
+      "value": "300",
+      "cssProperties": ["font", "font-weight"],
+      "type": "font-weight",
+      "comment": "Use for large headings only."
+    },
+    "FONT_WEIGHT_REGULAR": {
+      "value": "400",
+      "cssProperties": ["font", "font-weight"],
+      "type": "font-weight",
+      "comment": "Most all body copy."
+    },
+    "FONT_WEIGHT_BOLD": {
+      "value": "700",
+      "cssProperties": ["font", "font-weight"],
+      "type": "font-weight",
+      "comment": "Used sparingly for emphasized text within regular body copy."
+    },
+    "FONT_SIZE_X_SMALL": {
+      "value": "0.625rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "FONT_SIZE_SMALL": {
+      "value": "0.875rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "FONT_SIZE_MEDIUM": {
+      "value": "1rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "FONT_SIZE_LARGE": {
+      "value": "1.25rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "FONT_SIZE_X_LARGE": {
+      "value": "1.5rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "FONT_SIZE_XX_LARGE": {
+      "value": "2rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+
+
+    "LINE_HEIGHT_HEADING": {
+      "value": "1.25",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Unitless line-heights for reusabliity"
+    },
+    "LINE_HEIGHT_TEXT": {
+      "value": "1.375",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Unitless line-heights for reusabliity"
+    },
+    "LINE_HEIGHT_RESET": {
+      "value": "1",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Remove extra leading. Unitless line-heights for reusabliity"
+    },
+    "LINE_HEIGHT_TAB": {
+      "value": "3rem",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Line heights for tabs"
+    },
+    "LINE_HEIGHT_BUTTON": {
+      "value": "2.125rem",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Line heights for regular buttons"
+    },
+    "LINE_HEIGHT_BUTTON_SMALL": {
+      "value": "1.875rem",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Line heights for small buttons"
+    }
+  }
+}
