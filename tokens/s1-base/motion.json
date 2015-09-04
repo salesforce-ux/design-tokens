@@ -6,8 +6,7 @@
      "DURATION_SLIDE": {
       "value": "0.25s",
       "type": "time",
-      "cssProperties": ["animation", "animation-duration"],
-      "comment": "NOTE: This is also in oneHelper.js for JavaScript, if you change this, change that."
+      "cssProperties": ["animation", "animation-duration"]
     }
   }
 }

@@ -7,8 +7,7 @@
       "value": "250px",
       "type": "size",
       "category": "misc",
-      "cssProperties": "width",
-      "comment": "Stage left medium form factor. NOTE: This is also in oneHelper.js for JavaScript, if you change this, change that."
+      "cssProperties": "width"
     }
   }
 }

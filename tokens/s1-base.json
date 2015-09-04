@@ -10,8 +10,7 @@
       "value": "88%",
       "type": "size",
       "category": "misc",
-      "cssProperties": "width",
-      "comment": "Stage left small form factor. NOTE: This is also in oneHelper.js for JavaScript, if you change this, change that."
+      "cssProperties": "width"
     },
     "HEIGHT_FOOTER": {
       "value": "3.75rem",
