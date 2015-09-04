@@ -1,12 +1,10 @@
 # Salesforce Design Tokens
 
-Design Properties for colors, font sizes etc.
+Design Tokens for colors, spacing, font, etc.
 
 ## Setup
 
 ```bash
-git clone git@github.com:salesforce-ux/design-tokens-internal.git
-cd design-tokens-internal
 npm install
 ```
 
