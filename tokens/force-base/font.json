@@ -122,7 +122,7 @@
       "comment": "Line heights for regular buttons"
     },
     "LINE_HEIGHT_BUTTON_SMALL": {
-      "value": "1.875rem",
+      "value": "1.75rem",
       "type": "number",
       "category": "line-height",
       "cssProperties": ["font", "line-height"],
