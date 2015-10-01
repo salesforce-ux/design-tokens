@@ -52,7 +52,8 @@
       "value": "{!BLACK_TRANSPARENT_16}",
       "category": "background-color",
       "cssProperties": ["background", "background-color"],
-      "comment": "Background color for search input fields."
+      "comment": "Background color for search input fields.",
+      "deprecated": true
     },
     "COLOR_BACKGROUND_PILL": {
       "value": "{!WHITE}",

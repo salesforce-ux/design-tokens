@@ -31,7 +31,8 @@
       "type": "size",
       "category": "misc",
       "cssProperties": "height",
-      "comment": "Input and button height"
+      "comment": "Input and button height",
+      "deprecated": true
     },
     "HEIGHT_OVERFLOW_START": {
       "value": "144px",
@@ -52,14 +53,16 @@
       "type": "size",
       "category": "misc",
       "cssProperties": "max-height",
-      "comment": "Maximum height for photos and such in cards."
+      "comment": "Maximum height for photos and such in cards.",
+      "deprecated": true
     },
     "MAX_HEIGHT_HEADER_BRAND": {
       "value": "32px",
       "type": "size",
       "category": "misc",
       "cssProperties": "max-height",
-      "comment": "Maximum height for brand logos in header."
+      "comment": "Maximum height for brand logos in header.",
+      "deprecated": true
     },
     "MAX_WIDTH_ACTION_BAR": {
       "value": "600px",
@@ -94,7 +97,8 @@
       "type": "size",
       "category": "misc",
       "cssProperties": "max-width",
-      "comment": "Maximum width for brand logos in header."
+      "comment": "Maximum width for brand logos in header.",
+      "deprecated": true
     },
     "SQUARE_RECORD_ANCHOR_PIC": {
       "value": "3rem",
@@ -123,7 +127,8 @@
       "type": "size",
       "category": "misc",
       "cssProperties": ["width, height"],
-      "comment": "Tooltip square size"
+      "comment": "Tooltip square size",
+      "deprecated": true
     },
     "FLEX_DETAIL_PANEL": {
       "value": "3",

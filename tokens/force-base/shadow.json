@@ -14,7 +14,8 @@
     },
     "SHADOW_OVERLAY": {
       "value": "0 -2px 4px {!BLACK_TRANSPARENT_07}",
-      "comment": "Shadow for overlays."
+      "comment": "Shadow for overlays.",
+      "deprecated": true
     },
     "SHADOW_DRAG": {
       "value": "0px 2px 4px 0px {!BLACK_TRANSPARENT_40}",
@@ -22,7 +23,8 @@
     },
     "SHADOW_BUTTON": {
       "value": "0px 1px 1px 0px {!BLACK_TRANSPARENT_05}",
-      "comment": "Shadow for buttons."
+      "comment": "Shadow for buttons.",
+      "deprecated": true
     },
     "SHADOW_DROP_DOWN": {
       "value": "0px 2px 3px 0px {!BLACK_TRANSPARENT_16}",
