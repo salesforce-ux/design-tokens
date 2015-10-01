@@ -44,7 +44,8 @@ var convertOptions = _({
     'json',
     'common.js',
     'amd.js',
-    'aura.theme'
+    'aura.theme',
+    'aura.tokens'
   ],
   'ios': ['ios.json'],
   'android': ['android.xml']

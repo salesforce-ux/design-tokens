@@ -33,19 +33,19 @@
     "FONT_WEIGHT_LIGHT": {
       "value": "300",
       "cssProperties": ["font", "font-weight"],
-      "type": "font",
+      "type": "font-weight",
       "comment": "Use for large headings only."
     },
     "FONT_WEIGHT_REGULAR": {
       "value": "400",
       "cssProperties": ["font", "font-weight"],
-      "type": "font",
+      "type": "font-weight",
       "comment": "Most all body copy."
     },
     "FONT_WEIGHT_BOLD": {
       "value": "700",
       "cssProperties": ["font", "font-weight"],
-      "type": "font",
+      "type": "font-weight",
       "comment": "Used sparingly for emphasized text within regular body copy."
     },
     "FONT_SIZE_X_SMALL": {

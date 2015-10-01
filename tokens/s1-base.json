@@ -104,7 +104,7 @@
       "value": "3rem",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["width, height"],
+      "cssProperties": ["width", "height"],
       "comment": "Use squareIconLargeBoundary",
       "deprecated": true
     },
@@ -112,7 +112,7 @@
       "value": "2.75rem",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["width, height"],
+      "cssProperties": ["width", "height"],
       "comment": "Tap target Size"
     },
     "FLEX_MASTER_PANEL": {
