@@ -7,7 +7,7 @@
       "value": "250px",
       "type": "size",
       "category": "misc",
-      "cssProperties": "width"
+      "cssProperties": ["width"]
     }
   }
 }
