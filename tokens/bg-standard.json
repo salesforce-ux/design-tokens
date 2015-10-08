@@ -89,6 +89,9 @@
     "CASE_CHANGE_STATUS": {
       "value": "#F2CF5B"
     },
+    "CLIENT": {
+      "value": "#00D2BE"
+    },
     "CONTRACT": {
       "value": "#6EC06E"
     },
@@ -134,8 +137,14 @@
     "GROUPS": {
       "value": "#779EF2"
     },
+    "HOUSEHOLD": {
+      "value": "#00AFA0"
+    },
     "INSIGHTS": {
       "value": "#EC94ED"
+    },
+    "INVESTMENT_ACCOUNT": {
+      "value": "#4BC076"
     },
     "PERFORMANCE": {
       "value": "#F8B156"
