@@ -8,6 +8,11 @@
     "./aliases.json"
   ],
   "props": {
+    "COLOR_BACKGROUND_DESTRUCTIVE": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "category": "background-color",
+      "comment": "Color for UI elements related to errors."
+    },
     "COLOR_BACKGROUND_ERROR": {
       "value": "{!VALENCIA}",
       "category": "background-color",
