@@ -2,7 +2,7 @@
   "global": {
     "type": "number",
     "category": "atmosphere",
-    "cssProperties": "box-shadow"
+    "cssProperties": ["box-shadow"]
   },
   "props": {
     "ELEVATION_3_BELOW": {

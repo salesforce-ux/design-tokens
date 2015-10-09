@@ -2,7 +2,7 @@
   "global": {
     "type": "shadow",
     "category": "shadow",
-    "cssProperties": "box-shadow"
+    "cssProperties": ["box-shadow"]
   },
   "imports": [
     "./aliases.json"

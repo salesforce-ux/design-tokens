@@ -10,67 +10,67 @@
     "COLOR_TEXT_BUTTON_BRAND": {
       "value": "{!WHITE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for brandable primary button"
     },
     "COLOR_TEXT_BUTTON_BRAND_HOVER": {
       "value": "{!WHITE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for brandable primary button - hover state"
     },
     "COLOR_TEXT_BUTTON_BRAND_ACTIVE": {
       "value": "{!WHITE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for brandable primary button - active state"
     },
     "COLOR_TEXT_BUTTON_BRAND_DISABLED": {
       "value": "{!WHITE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for brandable primary button - disabled state"
     },
     "COLOR_TEXT_BUTTON_DEFAULT": {
       "value": "{!SCIENCE_BLUE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for default secondary button"
     },
     "COLOR_TEXT_BUTTON_DEFAULT_HOVER": {
       "value": "{!SCIENCE_BLUE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for default secondary button - hover state"
     },
     "COLOR_TEXT_BUTTON_DEFAULT_ACTIVE": {
       "value": "{!SCIENCE_BLUE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for default secondary button - active state"
     },
     "COLOR_TEXT_BUTTON_DEFAULT_DISABLED": {
       "value": "{!GEYSER}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for default secondary button - disabled state"
     },
     "COLOR_TEXT_BUTTON_DEFAULT_HINT": {
       "value": "{!CASPER}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
     },
     "COLOR_TEXT_BUTTON_INVERSE": {
       "value": "{!STEAM}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
     },
     "COLOR_TEXT_BUTTON_INVERSE_DISABLED": {
       "value": "{!WHITE_TRANSPARENT_15}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for a button that has a parent element that has a hover state. This is the default text/icon color for that button before its parent has been hovered over."
     },
     "COLOR_TEXT_ICON_DEFAULT": {

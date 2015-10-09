@@ -64,31 +64,31 @@
     "COLOR_TEXT_LABEL": {
       "value": "{!KASHMIR_BLUE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for field labels."
     },
     "COLOR_TEXT_PLACEHOLDER": {
       "value": "{!KASHMIR_BLUE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Input placeholder text."
     },
     "COLOR_TEXT_PLACEHOLDER_INVERSE": {
       "value": "{!STEAM}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Input placeholder text on dark backgrounds."
     },
     "COLOR_TEXT_REQUIRED": {
       "value": "{!VALENCIA}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Color of required field marker."
     },
     "COLOR_TEXT_PILL": {
       "value": "{!SCIENCE_BLUE}",
       "category": "text-color",
-      "cssProperties": "color",
+      "cssProperties": ["color"],
       "comment": "Text color for pills."
     },
     "COLOR_BORDER_INPUT": {

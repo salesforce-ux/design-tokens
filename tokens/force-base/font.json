@@ -12,24 +12,6 @@
       "type": "font",
       "cssProperties": ["font", "font-family"]
     },
-    "FONT_FAMILY_BODY": {
-      "value": "'SalesforceSans-Regular', Arial, sans-serif",
-      "type": "font",
-      "cssProperties": ["font", "font-family"],
-      "deprecated": true
-    },
-    "FONT_FAMILY_LIGHT": {
-      "value": "'SalesforceSans-Light', Arial, sans-serif",
-      "type": "font",
-      "cssProperties": ["font", "font-family"],
-      "deprecated": true
-    },
-    "FONT_FAMILY_STRONG": {
-      "value": "'SalesforceSans-Bold', Arial, sans-serif",
-      "type": "font",
-      "cssProperties": ["font", "font-family"],
-      "deprecated": true
-    },
     "FONT_WEIGHT_LIGHT": {
       "value": "300",
       "cssProperties": ["font", "font-weight"],
@@ -122,7 +104,7 @@
       "comment": "Line heights for regular buttons"
     },
     "LINE_HEIGHT_BUTTON_SMALL": {
-      "value": "1.875rem",
+      "value": "1.75rem",
       "type": "number",
       "category": "line-height",
       "cssProperties": ["font", "line-height"],

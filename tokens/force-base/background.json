@@ -37,7 +37,7 @@
       "comment": "Used as the background color for selected rows or items on list-like components."
     },
     "COLOR_BACKGROUND_ROW_NEW": {
-      "value": "{!LEMON_CHIFFON}",
+      "value": "{!SNOWY_MINT}",
       "comment": "Used as the background color for the new state on rows or items on list-like components."
     },
     "COLOR_BACKGROUND_INVERSE": {

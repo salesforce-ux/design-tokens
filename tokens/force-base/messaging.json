@@ -9,10 +9,9 @@
   ],
   "props": {
     "COLOR_BACKGROUND_ERROR": {
-      "value": "{!VALENCIA}",
+      "value": "{!FLUSH_MAHOGANY}",
       "category": "background-color",
       "comment": "Color for UI elements related to errors.",
-      "deprecated": true
     },
     "COLOR_BACKGROUND_ERROR_ALT": {
       "value": "{!DEEP_BLUSH}",
