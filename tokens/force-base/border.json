@@ -66,6 +66,13 @@
       "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Branded border color."
     },
+    "COLOR_BORDER_DESTRUCTIVE": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color for UI elements that have to do with destructive actions."
+    },
     "COLOR_BORDER_ERROR": {
       "value": "{!FLUSH_MAHOGANY}",
       "type": "color",

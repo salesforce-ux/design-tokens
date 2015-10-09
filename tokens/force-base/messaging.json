@@ -11,7 +11,7 @@
     "COLOR_BACKGROUND_DESTRUCTIVE": {
       "value": "{!FLUSH_MAHOGANY}",
       "category": "background-color",
-      "comment": "Color for UI elements related to errors."
+      "comment": "Color for UI elements related to destructive actions."
     },
     "COLOR_BACKGROUND_ERROR": {
       "value": "{!VALENCIA}",
