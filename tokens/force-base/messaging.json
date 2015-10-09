@@ -20,10 +20,9 @@
       "deprecated": true
     },
     "COLOR_BACKGROUND_SUCCESS": {
-      "value": "{!EMERALD}",
+      "value": "{!SALEM}",
       "category": "background-color",
       "comment": "Color for UI elements that have to do with success.",
-      "deprecated": true
     },
     "COLOR_BACKGROUND_TOAST": {
       "value": "{!KASHMIR_BLUE_TRANSPARENT_95}",
