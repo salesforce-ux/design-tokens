@@ -83,7 +83,8 @@
       "value": "1rem",
       "type": "size",
       "category": "misc",
-      "comment": "Small tap target size"
+      "comment": "Small tap target size",
+      "deprecated": true
     },
     "SQUARE_ICON_SMALL_BOUNDARY": {
       "value": "1.5rem",
@@ -105,7 +106,8 @@
       "value": "3.125rem",
       "type": "size",
       "category": "misc",
-      "comment": "Large tap target size"
+      "comment": "Large tap target size",
+      "deprecated": true
     }
   }
 }

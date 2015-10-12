@@ -74,7 +74,8 @@
     },
     "COLOR_BACKGROUND_INDICATOR_DOT": {
       "value": "{!CASPER}",
-      "comment": "Color of the indicator dot."
+      "comment": "Color of the indicator dot.",
+      "deprecated": true
     },
     "COLOR_BACKGROUND_MODAL": {
       "value": "{!WHITE}",

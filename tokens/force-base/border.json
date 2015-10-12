@@ -146,7 +146,8 @@
       "category": "border-color",
       "specificity": "builders",
       "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
-      "comment": "Used to delineate the boundary of a specific region. Specific to builders."
+      "comment": "Used to delineate the boundary of a specific region. Specific to builders.",
+      "deprecated": true
     },
     "COLOR_BORDER_SELECTION": {
       "value": "{!SCIENCE_BLUE}",
