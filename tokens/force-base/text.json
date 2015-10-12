@@ -69,42 +69,51 @@
     },
     "COLOR_TEXT_LINK": {
       "value": "{!SCIENCE_BLUE}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "comment": "Link text (508)"
     },
     "COLOR_TEXT_LINK_ACTIVE": {
       "value": "{!MIDNIGHT_BLUE}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "comment": "Active link text"
     },
     "COLOR_TEXT_LINK_DISABLED": {
       "value": "{!BISCAY}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "comment": "Disabled link text"
     },
     "COLOR_TEXT_LINK_FOCUS": {
       "value": "{!ENDEAVOUR}",
       "category": "text-color",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "comment": "Focus link text"
     },
     "COLOR_TEXT_LINK_HOVER": {
       "value": "{!ENDEAVOUR}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "comment": "Hover link text"
     },
     "COLOR_TEXT_LINK_INVERSE": {
       "value": "{!WHITE}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "category": "text-color",
       "comment": "Link color on dark background"
     },
     "COLOR_TEXT_LINK_INVERSE_HOVER": {
       "value": "{!WHITE_TRANSPARENT_75}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "category": "text-color",
       "comment": "Link color on dark background - hover state"
     },
     "COLOR_TEXT_LINK_INVERSE_ACTIVE": {
       "value": "{!WHITE_TRANSPARENT_50}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "category": "text-color",
       "comment": "Link color on dark background - active state"
     },
     "COLOR_TEXT_LINK_INVERSE_DISABLED": {
       "value": "{!WHITE_TRANSPARENT_15}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
       "category": "text-color",
       "comment": "Link color on dark background - disabled state"
     },

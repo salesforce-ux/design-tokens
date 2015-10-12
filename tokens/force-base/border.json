@@ -9,13 +9,13 @@
     "BORDER_WIDTH_THIN": {
       "value": "1px",
       "type": "size",
-      "cssProperties": ["border", "border-width", "border-top-width", "border-right-width", "border-bottom-width", "border-left-width"],
+      "cssProperties": ["border", "border-width", "border-top", "border-right", "border-bottom", "border-left", "border-top-width", "border-right-width", "border-bottom-width", "border-left-width", "width", "height", "box-shadow"],
       "category": "spacing"
     },
     "BORDER_WIDTH_THICK": {
       "value": "2px",
       "type": "size",
-      "cssProperties": ["border", "border-width", "border-top-width", "border-right-width", "border-bottom-width", "border-left-width"],
+      "cssProperties": ["border", "border-width", "border-top", "border-right", "border-bottom", "border-left", "border-top-width", "border-right-width", "border-bottom-width", "border-left-width", "width", "height", "box-shadow"],
       "category": "spacing"
     },
     "BORDER_RADIUS_SMALL": {
@@ -56,14 +56,14 @@
       "value": "{!GEYSER}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Default border color for UI elements."
     },
     "COLOR_BORDER_BRAND": {
       "value": "{!SCIENCE_BLUE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Branded border color."
     },
     "COLOR_BORDER_DESTRUCTIVE": {
@@ -91,28 +91,28 @@
       "value": "{!FLUSH_MAHOGANY}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color for UI elements that have to do with errors."
     },
     "COLOR_BORDER_SUCCESS": {
       "value": "{!EMERALD}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color for UI elements that have to do with success."
     },
     "COLOR_BORDER_WARNING": {
       "value": "{!KOROMIKO}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color for UI elements that have to do with warnings."
     },
     "COLOR_BORDER_TAB_SELECTED": {
       "value": "{!SCIENCE_BLUE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Border color for a selected tab in a tab group."
     },
 
@@ -121,42 +121,42 @@
       "value": "{!LINK_WATER}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Lightest separator color - used as default separator on white backgrounds."
     },
     "COLOR_BORDER_SEPARATOR_ALT": {
       "value": "{!GEYSER}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Medium separator color - used as default separator on light gray backgrounds."
     },
     "COLOR_BORDER_SEPARATOR_ALT_2": {
       "value": "{!CADET_BLUE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Darkest separator color - used as an alternate separator color when more differentiation is desired."
     },
     "COLOR_BORDER_SEPARATOR_INVERSE": {
       "value": "{!SAN_JUAN}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used as a separator on dark backgrounds, such as stage left navigation."
     },
     "COLOR_BORDER_ROW_SELECTED": {
       "value": "{!SCIENCE_BLUE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used as the border color for selected rows or items on list-like components."
     },
     "COLOR_BORDER_ROW_SELECTED_HOVER": {
       "value": "{!AZURE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used as the border color for the hover state on selected rows or items on list-like components."
     },
 
@@ -166,7 +166,7 @@
       "type": "color",
       "category": "border-color",
       "specificity": "builders",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used to delineate the boundary of a specific region. Specific to builders.",
       "deprecated": true
     },
@@ -175,7 +175,7 @@
       "type": "color",
       "category": "border-color",
       "specificity": "builders",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used to delineate the boundary of a selected component. Specific to builders."
     },
     "COLOR_BORDER_SELECTION_HOVER": {
@@ -183,7 +183,7 @@
       "type": "color",
       "category": "border-color",
       "specificity": "builders",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used to delineate the boundary of a component that is being hovered over. Specific to builders."
     },
     "COLOR_BORDER_SELECTION_ACTIVE": {
@@ -191,7 +191,7 @@
       "type": "color",
       "category": "border-color",
       "specificity": "builders",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used to delineate the boundary of a component that is being clicked. Specific to builders."
     },
     "COLOR_BORDER_CANVAS_ELEMENT_SELECTION": {
@@ -199,7 +199,7 @@
       "type": "color",
       "category": "border-color",
       "specificity": "builders",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used to delineate the boundary of a selected canvas element. Specific to builders."
     },
     "COLOR_BORDER_CANVAS_ELEMENT_SELECTION_HOVER": {
@@ -207,7 +207,7 @@
       "type": "color",
       "category": "border-color",
       "specificity": "builders",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used to delineate the boundary of a selected canvas element that is being hovered over. Specific to builders."
     }
   }
