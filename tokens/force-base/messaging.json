@@ -11,7 +11,7 @@
     "COLOR_BACKGROUND_ERROR": {
       "value": "{!FLUSH_MAHOGANY}",
       "category": "background-color",
-      "comment": "Color for UI elements related to errors.",
+      "comment": "Color for UI elements related to errors."
     },
     "COLOR_BACKGROUND_ERROR_ALT": {
       "value": "{!DEEP_BLUSH}",
@@ -22,7 +22,7 @@
     "COLOR_BACKGROUND_SUCCESS": {
       "value": "{!SALEM}",
       "category": "background-color",
-      "comment": "Color for UI elements that have to do with success.",
+      "comment": "Color for UI elements that have to do with success."
     },
     "COLOR_BACKGROUND_TOAST": {
       "value": "{!KASHMIR_BLUE_TRANSPARENT_95}",
