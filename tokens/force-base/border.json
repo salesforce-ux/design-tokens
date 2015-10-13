@@ -60,11 +60,25 @@
       "comment": "Default border color for UI elements."
     },
     "COLOR_BORDER_BRAND": {
+      "value": "{!AZURE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
+      "comment": "Our product brand blue."
+    },
+    "COLOR_BORDER_BRAND_DARK": {
       "value": "{!SCIENCE_BLUE}",
       "type": "color",
       "category": "border-color",
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
-      "comment": "Branded border color."
+      "comment": "Our product brand blue, darkened to meet accessibility color contrast ratios with white text."
+    },
+    "COLOR_BORDER_CUSTOMER": {
+      "value": "{!TANGERINE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
+      "comment": "Border color for UI elements related to the concept of an external user or customer."
     },
     "COLOR_BORDER_DESTRUCTIVE": {
       "value": "{!FLUSH_MAHOGANY}",
@@ -93,6 +107,13 @@
       "category": "border-color",
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color for UI elements that have to do with errors."
+    },
+    "COLOR_BORDER_ERROR_ALT": {
+      "value": "{!DEEP_BLUSH}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
+      "comment": "Alternative border color for UI elements related to errors."
     },
     "COLOR_BORDER_SUCCESS": {
       "value": "{!EMERALD}",
