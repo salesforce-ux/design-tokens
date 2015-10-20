@@ -2,7 +2,7 @@
   "global": {
     "type": "time",
     "category": "time",
-    "cssProperties": ["animation", "animation-duration"]
+    "cssProperties": ["animation", "animation-duration", "transition", "transition-delay", "transition-duration"]
   },
   "props": {
     "DURATION_INSTANTLY": {
