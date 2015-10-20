@@ -8,18 +8,34 @@
     "./aliases.json"
   ],
   "props": {
+    "COLOR_BACKGROUND_DESTRUCTIVE": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "category": "background-color",
+      "comment": "Color for UI elements related to destructive actions."
+    },
+    "COLOR_BACKGROUND_DESTRUCTIVE_HOVER": {
+      "value": "{!TABASCO}",
+      "category": "background-color",
+      "comment": "Hover color for UI elements related to destructive actions."
+    },
+    "COLOR_BACKGROUND_DESTRUCTIVE_ACTIVE": {
+      "value": "{!MAROON}",
+      "category": "background-color",
+      "comment": "Active color for UI elements related to destructive actions."
+    },
     "COLOR_BACKGROUND_ERROR": {
-      "value": "{!VALENCIA}",
+      "value": "{!FLUSH_MAHOGANY}",
       "category": "background-color",
       "comment": "Color for UI elements related to errors."
     },
     "COLOR_BACKGROUND_ERROR_ALT": {
       "value": "{!DEEP_BLUSH}",
       "category": "background-color",
-      "comment": "Alternative color for UI elements related to errors."
+      "comment": "Alternative color for UI elements related to errors.",
+      "deprecated": true
     },
     "COLOR_BACKGROUND_SUCCESS": {
-      "value": "{!EMERALD}",
+      "value": "{!SALEM}",
       "category": "background-color",
       "comment": "Color for UI elements that have to do with success."
     },

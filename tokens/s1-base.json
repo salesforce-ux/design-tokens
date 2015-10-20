@@ -16,14 +16,14 @@
       "value": "3.75rem",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["height"],
+      "cssProperties": ["height", "bottom", "padding-bottom", "transform"],
       "comment": "Action footer menu. Phone 44px; Tablet 50px"
     },
     "HEIGHT_HEADER": {
       "value": "2.75rem",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["height"],
+      "cssProperties": ["height", "top", "padding-top", "transform"],
       "comment": "Brand header. Phone 44px; Tablet 50px"
     },
     "HEIGHT_INPUT": {
@@ -31,7 +31,8 @@
       "type": "size",
       "category": "misc",
       "cssProperties": ["height"],
-      "comment": "Input and button height"
+      "comment": "Input and button height",
+      "deprecated": true
     },
     "HEIGHT_OVERFLOW_START": {
       "value": "144px",
@@ -52,20 +53,22 @@
       "type": "size",
       "category": "misc",
       "cssProperties": ["max-height"],
-      "comment": "Maximum height for photos and such in cards."
+      "comment": "Maximum height for photos and such in cards.",
+      "deprecated": true
     },
     "MAX_HEIGHT_HEADER_BRAND": {
       "value": "32px",
       "type": "size",
       "category": "misc",
       "cssProperties": ["max-height"],
-      "comment": "Maximum height for brand logos in header."
+      "comment": "Maximum height for brand logos in header.",
+      "deprecated": true
     },
     "MAX_WIDTH_ACTION_BAR": {
       "value": "600px",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["max-height"],
+      "cssProperties": ["max-width"],
       "comment": "Maximum width for action icons in action bar."
     },
     "MAX_WIDTH_ACTION_BAR_ITEM": {
@@ -93,8 +96,10 @@
       "value": "156px",
       "type": "size",
       "category": "misc",
+
       "cssProperties": ["max-width"],
-      "comment": "Maximum width for brand logos in header."
+      "comment": "Maximum width for brand logos in header.",
+      "deprecated": true
     },
     "SQUARE_RECORD_ANCHOR_PIC": {
       "value": "3rem",
@@ -115,15 +120,16 @@
       "value": "7",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["flex"],
+      "cssProperties": ["flex", "box-flex"],
       "comment": "2 Column Layout - Master"
     },
     "SQUARE_TOOLTIP": {
       "value": "1.25rem",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["width", "height"],
-      "comment": "Tooltip square size"
+      "cssProperties": ["width, height"],
+      "comment": "Tooltip square size",
+      "deprecated": true
     },
     "FLEX_DETAIL_PANEL": {
       "value": "3",
