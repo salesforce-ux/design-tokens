@@ -79,7 +79,7 @@
       "comment": "Input placeholder text on dark backgrounds."
     },
     "COLOR_TEXT_REQUIRED": {
-      "value": "{!VALENCIA}",
+      "value": "{!FLUSH_MAHOGANY}",
       "category": "text-color",
       "cssProperties": "color",
       "comment": "Color of required field marker."
