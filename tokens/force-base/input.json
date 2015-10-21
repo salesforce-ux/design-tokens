@@ -95,28 +95,28 @@
       "value": "{!GEYSER}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color on form elements."
     },
     "COLOR_BORDER_INPUT_ACTIVE": {
       "value": "{!AZURE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color on active form elements."
     },
     "COLOR_BORDER_INPUT_DISABLED": {
       "value": "{!CADET_BLUE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color on disabled form elements."
     },
     "COLOR_BORDER_INPUT_CHECKBOX_SELECTED_CHECKMARK": {
       "value": "{!WHITE}",
       "type": "color",
       "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "The borders to create the checkmark"
     }
   }

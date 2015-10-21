@@ -16,6 +16,10 @@
       "value": "{!BISCAY}",
       "comment": "Action label active text color"
     },
+    "COLOR_TEXT_BRAND": {
+      "value": "{!AZURE}",
+      "comment": "Our product brand blue."
+    },
     "COLOR_TEXT_BROWSER": {
       "value": "{!WHITE}",
       "cssProperties": ["color", "fill"],
@@ -69,7 +73,7 @@
     },
     "COLOR_TEXT_LINK": {
       "value": "{!SCIENCE_BLUE}",
-      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "cssProperties": ["color", "border", "border-bottom", "border-bottom-color"],
       "comment": "Link text (508)"
     },
     "COLOR_TEXT_LINK_ACTIVE": {
