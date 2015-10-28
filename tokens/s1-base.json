@@ -10,20 +10,20 @@
       "value": "88%",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["width"]
+      "cssProperties": ["width", "left"]
     },
     "HEIGHT_FOOTER": {
       "value": "3.75rem",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["height", "bottom", "padding-bottom", "transform"],
+      "cssProperties": ["height", "min-height", "bottom", "padding-bottom", "transform"],
       "comment": "Action footer menu. Phone 44px; Tablet 50px"
     },
     "HEIGHT_HEADER": {
       "value": "2.75rem",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["height", "top", "padding-top", "transform"],
+      "cssProperties": ["height", "min-height", "top", "padding-top", "transform"],
       "comment": "Brand header. Phone 44px; Tablet 50px"
     },
     "HEIGHT_INPUT": {
@@ -135,7 +135,7 @@
       "value": "3",
       "type": "size",
       "category": "misc",
-      "cssProperties": ["flex"],
+      "cssProperties": ["flex", "box-flex"],
       "comment": "2 Column Layout - Detail"
     }
   }

@@ -2,7 +2,7 @@
   "global": {
     "category": "font",
     "type": "font",
-    "cssProperties": ["font", "font-family"]
+    "cssProperties": ["src"]
   },
   "props": {
     "PROXIMA_REGULAR_SRC": {
