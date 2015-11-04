@@ -24,7 +24,7 @@
       "comment": "Active color for UI elements related to destructive actions."
     },
     "COLOR_BACKGROUND_ERROR": {
-      "value": "{!FLUSH_MAHOGANY}",
+      "value": "{!VALENCIA}",
       "category": "background-color",
       "comment": "Color for UI elements related to errors."
     },
@@ -35,7 +35,7 @@
       "deprecated": true
     },
     "COLOR_BACKGROUND_SUCCESS": {
-      "value": "{!SALEM}",
+      "value": "{!EMERALD}",
       "category": "background-color",
       "comment": "Color for UI elements that have to do with success."
     },
