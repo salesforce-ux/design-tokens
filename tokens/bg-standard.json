@@ -8,10 +8,40 @@
     "LOG_A_CALL": {
       "value": "#48C3CC"
     },
+    "DOCUMENT": {
+      "value": "#BAAC93"
+    },
+    "ENVIRONMENT_HUB": {
+      "value": "#54698d"
+    },
+    "FLOW": {
+      "value": "#54698d"
+    },
+    "SOSSESSION": {
+      "value": "#54698d"
+    },
+    "PROCESS": {
+      "value": "#54698d"
+    },
+    "NEWS": {
+      "value": "#7F8DE1"
+    },
+    "HOME": {
+      "value": "#EF7EAD"
+    },
     "ACCOUNT": {
       "value": "#7F8DE1"
     },
-    "SOCIAL_POST": {
+    "APPS_ADMIN": {
+      "value": "#9895EE"
+    },
+    "ANNOUNCEMENT": {
+      "value": "#62B7ED"
+    },
+    "PERSON_ACCOUNT": {
+      "value": "#7F8DE1"
+    },
+    "SOCIAL": {
       "value": "#EA74A2"
     },
     "CAMPAIGN_MEMBERS": {
@@ -56,7 +86,7 @@
     "COACHING": {
       "value": "#F67594"
     },
-    "CONNECTED_APPS_ADMINS": {
+    "CONNECTED_APPS": {
       "value": "#9895EE"
     },
     "DRAFTS": {
@@ -83,11 +113,23 @@
     "CASE_TRANSCRIPT": {
       "value": "#F2CF5B"
     },
+    "CASE_EMAIL": {
+      "value": "#F2CF5B"
+    },
+    "CASE_LOG_A_CALL": {
+      "value": "#F2CF5B"
+    },
     "CASE_COMMENT": {
       "value": "#F2CF5B"
     },
     "CASE_CHANGE_STATUS": {
       "value": "#F2CF5B"
+    },
+    "WORK_ORDER": {
+      "value": "#33A8DC"
+    },
+    "WORK_ORDER_ITEM": {
+      "value": "#50E3C2"
     },
     "CLIENT": {
       "value": "#00D2BE"
@@ -120,6 +162,9 @@
       "value": "#AEC770"
     },
     "PRODUCT": {
+      "value": "#B781D3"
+    },
+    "PRICEBOOK": {
       "value": "#B781D3"
     },
     "FEED": {
@@ -164,7 +209,10 @@
     "OPPORTUNITY": {
       "value": "#FCB95B"
     },
-    "LOG_A_CALL_CHATTER": {
+    "CALL": {
+      "value": "#F2CF5B"
+    },
+    "CALL_HISTORY": {
       "value": "#F2CF5B"
     },
     "ORDERS": {
@@ -221,10 +269,16 @@
     "TASK": {
       "value": "#4BC076"
     },
+    "TASK2": {
+      "value": "#4BC076"
+    },
     "TEAM_MEMBER": {
       "value": "#F2CF5B"
     },
     "THANKS": {
+      "value": "#E9696E"
+    },
+    "REWARD": {
       "value": "#E9696E"
     },
     "THANKS_LOADING": {
@@ -241,10 +295,6 @@
     },
     "MARKETING_ACTIONS": {
       "value": "#6bbd6e"
-    },
-    "MARKETING_RESOURCES": {
-      "value": "#000000",
-      "comment": "no color needed. black is just a placeholder."
     }
   }
 }
