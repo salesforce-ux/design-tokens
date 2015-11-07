@@ -5,10 +5,58 @@
     "cssProperties": ["background", "background-color"]
   },
   "props": {
+    "ACTION_CHANGE_OWNER": {
+      "value": "#54698d"
+    },
+    "ACTION_SHARE": {
+      "value": "#54698d"
+    },
+    "ACTION_INFO": {
+      "value": "#54698d"
+    },
+    "ACTION_UPLOAD": {
+      "value": "#54698d"
+    },
+    "ACTION_CHANGE_RECORD_TYPE": {
+      "value": "#54698d"
+    },
+    "ACTION_CHECK": {
+      "value": "#54698d"
+    },
+    "ACTION_DOWNLOAD": {
+      "value": "#54698d"
+    },
+    "ACTION_EDIT_RELATIONSHIP": {
+      "value": "#54698d"
+    },
+    "ACTION_FREEZE_USER": {
+      "value": "#54698d"
+    },
+    "ACTION_MANAGE_PERM_SETS": {
+      "value": "#54698d"
+    },
+    "ACTION_PASSWORD_UNLOCK": {
+      "value": "#54698d"
+    },
+    "ACTION_REFRESH": {
+      "value": "#54698d"
+    },
+    "ACTION_REMOVE": {
+      "value": "#54698d"
+    },
+    "ACTION_RESET_PASSWORD": {
+      "value": "#54698d"
+    },
+    "ACTION_USER_ACTIVATION": {
+      "value": "#54698d"
+    },
+    "ACTION_ADD_CONTACT": {
+      "value": "#A094ED"
+    },
     "ACTION_APPROVAL": {
       "value": "#00C6B7"
     },
-    "ACTION_CANVASAPP": {
+    "ACTION_CANVAS": {
       "value": "#8199AF"
     },
     "ACTION_GOAL": {
@@ -59,10 +107,13 @@
     "ACTION_LEAVE_GROUP": {
       "value": "#F39E58"
     },
-    "ACTION_EDIT_GROUP": {
+    "ACTION_EDIT_GROUPS": {
       "value": "#34BECD"
     },
     "ACTION_SHARE_POST": {
+      "value": "#65CAE4"
+    },
+    "ACTION_USER": {
       "value": "#65CAE4"
     },
     "ACTION_SHARE_FILE": {
@@ -123,7 +174,7 @@
       "value": "#81B4D6"
     },
     "ACTION_LOG_THIS_EVENT": {
-      "value": "#F86268"
+      "value": "#EB7092"
     },
     "ACTION_EMAIL": {
       "value": "#95AEC5"
@@ -174,7 +225,7 @@
       "value": "#62B7ED"
     },
     "ACTION_NOTEBOOK": {
-      "value": "#C871D6"
+      "value": "#E6D478"
     },
     "ACTION_PREVIEW": {
       "value": "#7F8DE1"
@@ -192,6 +243,9 @@
       "value": "#f88962"
     },
     "ACTION_NEW_ACCOUNT": {
+      "value": "#7f8de1"
+    },
+    "ACTION_NEW_PERSON_ACCOUNT": {
       "value": "#7f8de1"
     },
     "ACTION_NEW_CAMPAIGN": {
