@@ -101,6 +101,13 @@
       "cssProperties": ["border", "border-color", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Active border color for UI elements that have to do with destructive actions."
     },
+    "COLOR_BORDER_INFO": {
+      "value": "{!KASHMIR_BLUE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
+      "comment": "Border color for UI elements related to providing neutral information (not error, success, or warning)."
+    },
     "COLOR_BORDER_ERROR": {
       "value": "{!FLUSH_MAHOGANY}",
       "type": "color",
@@ -115,12 +122,33 @@
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Alternative border color for UI elements related to errors."
     },
+    "COLOR_BORDER_ERROR_DARK": {
+      "value": "{!DEEP_BLUSH}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
+      "comment": "Dark alternative border color for UI elements related to errors."
+    },
+    "COLOR_BORDER_OFFLINE": {
+      "value": "{!TUNDORA}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
+      "comment": "Border color for UI elements related to the offline state."
+    },
     "COLOR_BORDER_SUCCESS": {
       "value": "{!EMERALD}",
       "type": "color",
       "category": "border-color",
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color for UI elements that have to do with success."
+    },
+    "COLOR_BORDER_SUCCESS_DARK": {
+      "value": "{!SALEM}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
+      "comment": "Dark alternative border color for UI elements that have to do with success."
     },
     "COLOR_BORDER_WARNING": {
       "value": "{!KOROMIKO}",
