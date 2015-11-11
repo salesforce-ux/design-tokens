@@ -23,10 +23,20 @@
       "category": "background-color",
       "comment": "Active color for UI elements related to destructive actions."
     },
+    "COLOR_BACKGROUND_INFO": {
+      "value": "{!KASHMIR_BLUE}",
+      "category": "background-color",
+      "comment": "Background color for UI elements related to providing neutral information (not error, success, or warning)."
+    },
     "COLOR_BACKGROUND_ERROR": {
       "value": "{!VALENCIA}",
       "category": "background-color",
       "comment": "Color for UI elements related to errors."
+    },
+    "COLOR_BACKGROUND_ERROR_DARK": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "category": "background-color",
+      "comment": "Dark color for UI elements related to errors. Accessible with white text."
     },
     "COLOR_BACKGROUND_ERROR_ALT": {
       "value": "{!DEEP_BLUSH}",
@@ -34,10 +44,20 @@
       "comment": "Alternative color for UI elements related to errors.",
       "deprecated": true
     },
+    "COLOR_BACKGROUND_OFFLINE": {
+      "value": "{!TUNDORA}",
+      "category": "background-color",
+      "comment": "Color for UI elements related to the offline state."
+    },
     "COLOR_BACKGROUND_SUCCESS": {
       "value": "{!EMERALD}",
       "category": "background-color",
       "comment": "Color for UI elements that have to do with success."
+    },
+    "COLOR_BACKGROUND_SUCCESS_DARK": {
+      "value": "{!SALEM}",
+      "category": "background-color",
+      "comment": "Dark color for UI elements that have to do with success. Accessible with white text."
     },
     "COLOR_BACKGROUND_TOAST": {
       "value": "{!KASHMIR_BLUE_TRANSPARENT_95}",
