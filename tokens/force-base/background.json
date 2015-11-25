@@ -116,7 +116,12 @@
     "COLOR_BACKGROUND_SHADE": {
       "value": "{!STEAM}",
       "specificity": "builders",
-      "comment": "Used as background for visual app builder."
+      "comment": "Used as gray background when more contrast is desired."
+    },
+    "COLOR_BACKGROUND_SHADE_DARK": {
+      "value": "{!GEYSER}",
+      "specificity": "builders",
+      "comment": "Used as gray background in conjunction with Shade when more contrast is desired."
     },
     "COLOR_BACKGROUND_STENCIL": {
       "value": "{!WHITE_LILAC}",
@@ -153,6 +158,10 @@
     "COLOR_BRAND_DARK": {
       "value": "{!SCIENCE_BLUE}",
       "comment": "Our product brand blue, darkened to meet accessibility color contrast ratios with white text."
+    },
+    "COLOR_BRAND_DARKER": {
+      "value": "{!ENDEAVOUR}",
+      "comment": "Our product brand blue, darkened even further."
     }
   }
 }
