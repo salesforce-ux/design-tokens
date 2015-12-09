@@ -14,4 +14,4 @@ npm install
 npm run tokens
 ```
 
-View the `./dist` directory for the generated output
+View the `./dist` directory for the generated output.
