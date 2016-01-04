@@ -53,7 +53,7 @@
       "comment": "Secondary top bar background color (child browser, file preview, etc.)"
     },
     "COLOR_BACKGROUND_CHROME_MOBILE": {
-      "value": "{!SCIENCE_BLUE}",
+      "value": "{!WHITE}",
       "comment": "Background color for default mobile chrome (ex. global header)"
     },
     "COLOR_BACKGROUND_CHROME_DESKTOP": {
