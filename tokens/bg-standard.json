@@ -95,6 +95,9 @@
     "EMAIL": {
       "value": "#95AEC5"
     },
+    "EMAIL_IQ": {
+      "value": "#A094ED"
+    },
     "ENDORSEMENT": {
       "value": "#8B9AE3"
     },
@@ -184,6 +187,9 @@
     },
     "HOUSEHOLD": {
       "value": "#00AFA0"
+    },
+     "HIERARCHY": {
+      "value": "#34BECD"
     },
     "INSIGHTS": {
       "value": "#EC94ED"
