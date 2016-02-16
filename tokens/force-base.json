@@ -8,6 +8,7 @@
     "./force-base/font.json",
     "./force-base/input.json",
     "./force-base/messaging.json",
+    "./force-base/opacity.json",
     "./force-base/shadow.json",
     "./force-base/sizing.json",
     "./force-base/spacing.json",
