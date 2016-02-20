@@ -96,6 +96,13 @@
       "cssProperties": ["font", "line-height"],
       "comment": "Line heights for tabs"
     },
+    "LINE_HEIGHT_SALESPATH": {
+      "value": "1.5rem",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Line heights for salespath"
+    },
     "LINE_HEIGHT_BUTTON": {
       "value": "2.125rem",
       "type": "number",
