@@ -118,7 +118,7 @@
       "specificity": "builders",
       "comment": "Used as gray background when more contrast is desired."
     },
-    "COLOR_BACKGROUND_SHADE_DARK": { 
+    "COLOR_BACKGROUND_SHADE_DARK": {
       "value": "{!GEYSER}",
       "specificity": "builders",
       "comment": "Used as gray background in conjunction with Shade when more contrast is desired."
