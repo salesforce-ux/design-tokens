@@ -1,0 +1,22 @@
+<aura:theme extends="force:base">
+  <aura:importTheme name="one:actionBackgrounds" />
+  <aura:var name="durationSlide" value="0.25s" />
+  <aura:var name="widthStageLeft" value="88%" />
+  <aura:var name="heightFooter" value="3.75rem" />
+  <aura:var name="heightHeader" value="2.75rem" />
+  <aura:var name="heightInput" value="1.875rem" />
+  <aura:var name="heightOverflowStart" value="144px" />
+  <aura:var name="maxHeightActionOverflowMenu" value="628px" />
+  <aura:var name="maxHeightCardMedia" value="144px" />
+  <aura:var name="maxHeightHeaderBrand" value="32px" />
+  <aura:var name="maxWidthActionBar" value="600px" />
+  <aura:var name="maxWidthActionBarItem" value="120px" />
+  <aura:var name="maxWidthActionBarWithLabels" value="320px" />
+  <aura:var name="maxWidthActionOverflowMenu" value="512px" />
+  <aura:var name="maxWidthHeaderBrand" value="156px" />
+  <aura:var name="squareRecordAnchorPic" value="3rem" />
+  <aura:var name="squareTappable" value="2.75rem" />
+  <aura:var name="flexMasterPanel" value="7" />
+  <aura:var name="squareTooltip" value="1.25rem" />
+  <aura:var name="flexDetailPanel" value="3" />
+</aura:theme>

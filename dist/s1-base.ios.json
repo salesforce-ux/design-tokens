@@ -1,0 +1,215 @@
+{
+  "properties": [
+    {
+      "category": "motion",
+      "value": "0.25s",
+      "type": "time",
+      "cssProperties": [
+        "animation",
+        "animation-duration",
+        "transition",
+        "transition-delay",
+        "transition-duration"
+      ],
+      "name": "durationSlide"
+    },
+    {
+      "value": "0.88",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "width",
+        "left"
+      ],
+      "name": "widthStageLeft"
+    },
+    {
+      "value": "60",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "height",
+        "min-height",
+        "bottom",
+        "padding-bottom",
+        "transform"
+      ],
+      "comment": "Action footer menu. Phone 44px; Tablet 50px",
+      "name": "heightFooter"
+    },
+    {
+      "value": "44",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "height",
+        "min-height",
+        "top",
+        "padding-top",
+        "transform"
+      ],
+      "comment": "Brand header. Phone 44px; Tablet 50px",
+      "name": "heightHeader"
+    },
+    {
+      "value": "30",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "height"
+      ],
+      "comment": "Input and button height",
+      "deprecated": true,
+      "name": "heightInput"
+    },
+    {
+      "value": "144px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "height"
+      ],
+      "comment": "Space above overflow menu before scrolling.",
+      "name": "heightOverflowStart"
+    },
+    {
+      "value": "628px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-height"
+      ],
+      "comment": "Maximum height for action overflow menu so that it's not full-screen for tablet initially.",
+      "name": "maxHeightActionOverflowMenu"
+    },
+    {
+      "value": "144px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-height"
+      ],
+      "comment": "Maximum height for photos and such in cards.",
+      "deprecated": true,
+      "name": "maxHeightCardMedia"
+    },
+    {
+      "value": "32px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-height"
+      ],
+      "comment": "Maximum height for brand logos in header.",
+      "deprecated": true,
+      "name": "maxHeightHeaderBrand"
+    },
+    {
+      "value": "600px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-width"
+      ],
+      "comment": "Maximum width for action icons in action bar.",
+      "name": "maxWidthActionBar"
+    },
+    {
+      "value": "120px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-width"
+      ],
+      "comment": "Max-width of an action bar item",
+      "name": "maxWidthActionBarItem"
+    },
+    {
+      "value": "320px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-width"
+      ],
+      "comment": "Maximum width for action icons in action bar when there are only 2 items with labels.",
+      "name": "maxWidthActionBarWithLabels"
+    },
+    {
+      "value": "512px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-width"
+      ],
+      "comment": "Maximum width for action overflow menu so that it's not full-screen for tablet.",
+      "name": "maxWidthActionOverflowMenu"
+    },
+    {
+      "value": "156px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "max-width"
+      ],
+      "comment": "Maximum width for brand logos in header.",
+      "deprecated": true,
+      "name": "maxWidthHeaderBrand"
+    },
+    {
+      "value": "48",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "width",
+        "height"
+      ],
+      "comment": "Use squareIconLargeBoundary",
+      "deprecated": true,
+      "name": "squareRecordAnchorPic"
+    },
+    {
+      "value": "44",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "width",
+        "height"
+      ],
+      "comment": "Tap target Size",
+      "name": "squareTappable"
+    },
+    {
+      "value": "7",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "flex",
+        "box-flex"
+      ],
+      "comment": "2 Column Layout - Master",
+      "name": "flexMasterPanel"
+    },
+    {
+      "value": "20",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "width, height"
+      ],
+      "comment": "Tooltip square size",
+      "deprecated": true,
+      "name": "squareTooltip"
+    },
+    {
+      "value": "3",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "flex",
+        "box-flex"
+      ],
+      "comment": "2 Column Layout - Detail",
+      "name": "flexDetailPanel"
+    }
+  ]
+}

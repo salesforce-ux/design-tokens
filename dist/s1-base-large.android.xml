@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <property name="FONT_SIZE_SMALL" category="font-size">12</property>
+  <property name="FONT_SIZE_MEDIUM" category="font-size">14</property>
+  <property name="FONT_SIZE_LARGE" category="font-size">18</property>
+  <property name="LINE_HEIGHT_TEXT" category="line-height">1.5</property>
+  <property name="WIDTH_STAGE_LEFT_COLLAPSED" category="misc">64</property>
+  <property name="WIDTH_STAGE_LEFT_EXPANDED" category="misc">240</property>
+  <property name="HEIGHT_HEADER" category="misc">60</property>
+  <property name="SQUARE_ICON_MEDIUM" category="misc">32</property>
+</resources>
