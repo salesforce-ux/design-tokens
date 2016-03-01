@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <property name="DURATION_SLIDE" category="motion">0.25s</property>
+  <property name="WIDTH_STAGE_LEFT" category="misc">0.88</property>
+  <property name="HEIGHT_FOOTER" category="misc">60</property>
+  <property name="HEIGHT_HEADER" category="misc">44</property>
+  <property name="HEIGHT_INPUT" category="misc">30</property>
+  <property name="HEIGHT_OVERFLOW_START" category="misc">144px</property>
+  <property name="MAX_HEIGHT_ACTION_OVERFLOW_MENU" category="misc">628px</property>
+  <property name="MAX_HEIGHT_CARD_MEDIA" category="misc">144px</property>
+  <property name="MAX_HEIGHT_HEADER_BRAND" category="misc">32px</property>
+  <property name="MAX_WIDTH_ACTION_BAR" category="misc">600px</property>
+  <property name="MAX_WIDTH_ACTION_BAR_ITEM" category="misc">120px</property>
+  <property name="MAX_WIDTH_ACTION_BAR_WITH_LABELS" category="misc">320px</property>
+  <property name="MAX_WIDTH_ACTION_OVERFLOW_MENU" category="misc">512px</property>
+  <property name="MAX_WIDTH_HEADER_BRAND" category="misc">156px</property>
+  <property name="SQUARE_RECORD_ANCHOR_PIC" category="misc">48</property>
+  <property name="SQUARE_TAPPABLE" category="misc">44</property>
+  <property name="FLEX_MASTER_PANEL" category="misc">7</property>
+  <property name="SQUARE_TOOLTIP" category="misc">20</property>
+  <property name="FLEX_DETAIL_PANEL" category="misc">3</property>
+</resources>

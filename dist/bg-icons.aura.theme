@@ -1,0 +1,3 @@
+<aura:theme>
+  <aura:var name="folder" value="rgb(99, 163, 238)" />
+</aura:theme>

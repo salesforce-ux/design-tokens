@@ -1,5 +1,1 @@
-/*
-/*/
-!/dist/
-!README.md
-!package.json
+gulpfile.js
