@@ -3,9 +3,6 @@
     "category": "font",
     "comment": ""
   },
-  "imports": [
-    "./aliases.json"
-  ],
   "props": {
     "LINE_HEIGHT_SALESPATH": {
       "value": "1.5rem",

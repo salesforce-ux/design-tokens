@@ -5,7 +5,7 @@
     "cssProperties": ["background", "background-color"]
   },
   "imports": [
-    "./aliases.json"
+    "../force-base/aliases.json"
   ],
   "props": {
     "COLOR_BACKGROUND_PATH_COMPLETE": {

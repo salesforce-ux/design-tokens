@@ -1,7 +1,11 @@
 {
   "imports": [
     "./force-base/aliases.json",
-    "./s1-base/motion.json"
+    "./s1-base/background.json",
+    "./s1-base/border.json",
+    "./s1-base/font.json",
+    "./s1-base/motion.json",
+    "./s1-base/sizing.json"
   ],
   "auraExtends": "force:base",
   "auraImports": ["one:actionBackgrounds"],
