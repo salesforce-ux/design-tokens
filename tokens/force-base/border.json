@@ -199,13 +199,6 @@
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used as a separator on dark backgrounds, such as stage left navigation."
     },
-    "COLOR_BORDER_PATH_DIVIDER": {
-      "value": "{!WHITE}",
-      "type": "color",
-      "category": "border-color",
-      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
-      "comment": "Used as a separator between dark colors like the stages of salespath."
-    },
     "COLOR_BORDER_ROW_SELECTED": {
       "value": "{!SCIENCE_BLUE}",
       "type": "color",

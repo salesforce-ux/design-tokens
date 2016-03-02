@@ -106,12 +106,6 @@
       "category": "misc",
       "comment": "Large tap target size",
       "deprecated": true
-    },
-    "HEIGHT_SALES_PATH": {
-      "value": "2rem",
-      "type": "size",
-      "category": "misc",
-      "comment": "Height of Salespath"
     }
   }
 }

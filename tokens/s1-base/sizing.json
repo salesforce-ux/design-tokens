@@ -1,0 +1,18 @@
+{
+  "global": {
+    "type": "size",
+    "category": "sizing",
+    "cssProperties": ["width", "height", "min-width", "max-width", "min-height", "max-height"]
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "HEIGHT_SALES_PATH": {
+      "value": "2rem",
+      "type": "size",
+      "category": "misc",
+      "comment": "Height of Salespath"
+    }
+  }
+}

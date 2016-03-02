@@ -162,46 +162,6 @@
     "COLOR_BRAND_DARKER": {
       "value": "{!ENDEAVOUR}",
       "comment": "Our product brand blue, darkened even further."
-    },
-    "COLOR_BACKGROUND_PATH_COMPLETE": {
-      "value": "{!EMERALD}",
-      "category": "background-color",
-      "comment": "The background color for Salespath stages that are complete."
-    },
-    "COLOR_BACKGROUND_PATH_COMPLETE_HOVER": {
-      "value": "{!SALEM_TRANSPARENT_95}",
-      "category": "background-color",
-      "comment": "The hover background color for Salespath stages that are complete."
-    },
-    "COLOR_BACKGROUND_PATH_CURRENT": {
-      "value": "{!SCIENCE_BLUE}",
-      "category": "background-color",
-      "comment": "The background color for Salespath stages that are the current stage."
-    },
-    "COLOR_BACKGROUND_PATH_CURRENT_HOVER": {
-      "value": "{!ENDEAVOUR}",
-      "category": "background-color",
-      "comment": "The hover background color for Salespath stages that are the current stage."
-    },
-    "COLOR_BACKGROUND_PATH_INCOMPLETE": {
-      "value": "{!STEAM}",
-      "category": "background-color",
-      "comment": "The background color for Salespath stages that have not been completed."
-    },
-    "COLOR_BACKGROUND_PATH_INCOMPLETE_HOVER": {
-      "value": "{!GEYSER}",
-      "category": "background-color",
-      "comment": "The hover background color for Salespath stages that have not been completed."
-    },
-    "COLOR_BACKGROUND_PATH_LOST": {
-      "value": "{!FLUSH_MAHOGANY}",
-      "category": "background-color",
-      "comment": "The background color for the final stage of a Salespath when it has been lost."
-    },
-    "COLOR_BACKGROUND_GUIDANCE": {
-      "value": "{!ATHENS_GRAY_LT}",
-      "category": "background-color",
-      "comment": "The background color for Salespath guidance coaching section."
     }
   }
 }
