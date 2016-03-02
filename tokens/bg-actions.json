@@ -224,6 +224,11 @@
     "ACTION_MORE": {
       "value": "#62B7ED"
     },
+    "ACTION_NOTEBOOK": {
+      "value": "#E6D478",
+      "deprecated": true,
+      "comment": "Use ACTION_NEW_NOTEBOOK instead.",
+    },
     "ACTION_NEW_NOTEBOOK": {
       "value": "#E6D478"
     },

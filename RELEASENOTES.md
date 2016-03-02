@@ -1,3 +1,12 @@
+# Release 2.0.4 - March 2, 2016
+
+** Added **
+- ACTION_NEW_NOTEBOOK
+- ACTION_LOG_EVENT
+
+** Deprecated **
+- ACTION_NOTEBOOK
+
 # Release 2.0.3 - March 1, 2016
 
 ** Added **
