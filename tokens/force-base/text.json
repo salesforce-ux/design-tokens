@@ -1,0 +1,179 @@
+{
+  "global": {
+    "type": "color",
+    "category": "text-color",
+    "cssProperties": ["color"]
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "COLOR_TEXT_ACTION_LABEL": {
+      "value": "{!KASHMIR_BLUE}",
+      "comment": "Action label text color"
+    },
+    "COLOR_TEXT_ACTION_LABEL_ACTIVE": {
+      "value": "{!BISCAY}",
+      "comment": "Action label active text color"
+    },
+    "COLOR_TEXT_BRAND": {
+      "value": "{!AZURE}",
+      "comment": "Our product brand blue."
+    },
+    "COLOR_TEXT_BROWSER": {
+      "value": "{!WHITE}",
+      "cssProperties": ["color", "fill"],
+      "comment": "Top bar icon color"
+    },
+    "COLOR_TEXT_BROWSER_ACTIVE": {
+      "value": "{!BLACK_TRANSPARENT_40}",
+      "cssProperties": ["color", "fill"],
+      "comment": "Top bar active icon color"
+    },
+    "COLOR_TEXT_CUSTOMER": {
+      "value": "{!TANGERINE}",
+      "comment": "Customer text used in anchor subtitle"
+    },
+    "COLOR_TEXT_DEFAULT": {
+      "value": "{!BISCAY}",
+      "comment": "Body text color"
+    },
+    "COLOR_TEXT_ERROR": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "comment": "Error text for inputs and error misc"
+    },
+    "COLOR_TEXT_INPUT_DISABLED": {
+      "value": "{!KASHMIR_BLUE}",
+      "comment": "Input disabled text"
+    },
+    "COLOR_TEXT_INPUT_FOCUS_INVERSE": {
+      "value": "{!BISCAY}",
+      "comment": "Typed input text"
+    },
+    "COLOR_TEXT_INPUT_ICON": {
+      "value": "{!CASPER}",
+      "cssProperties": ["color", "fill"],
+      "comment": "Input icon"
+    },
+    "COLOR_TEXT_INVERSE": {
+      "value": "{!WHITE}",
+      "comment": "Inverse text color for dark backgrounds"
+    },
+    "COLOR_TEXT_INVERSE_WEAK": {
+      "value": "{!CASPER}",
+      "comment": "Weak inverse text color for dark backgrounds"
+    },
+    "COLOR_TEXT_INVERSE_ACTIVE": {
+      "value": "{!MALIBU}",
+      "comment": "Active state on a standalone link on a dark background."
+    },
+    "COLOR_TEXT_INVERSE_HOVER": {
+      "value": "{!CASPER}",
+      "comment": "Hover state on a standalone link on a dark background."
+    },
+    "COLOR_TEXT_LINK": {
+      "value": "{!SCIENCE_BLUE}",
+      "cssProperties": ["color", "border", "border-bottom", "border-bottom-color"],
+      "comment": "Link text (508)"
+    },
+    "COLOR_TEXT_LINK_ACTIVE": {
+      "value": "{!MIDNIGHT_BLUE}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "comment": "Active link text"
+    },
+    "COLOR_TEXT_LINK_DISABLED": {
+      "value": "{!BISCAY}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "comment": "Disabled link text"
+    },
+    "COLOR_TEXT_LINK_FOCUS": {
+      "value": "{!ENDEAVOUR}",
+      "category": "text-color",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "comment": "Focus link text"
+    },
+    "COLOR_TEXT_LINK_HOVER": {
+      "value": "{!ENDEAVOUR}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "comment": "Hover link text"
+    },
+    "COLOR_TEXT_LINK_INVERSE": {
+      "value": "{!WHITE}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "category": "text-color",
+      "comment": "Link color on dark background"
+    },
+    "COLOR_TEXT_LINK_INVERSE_HOVER": {
+      "value": "{!WHITE_TRANSPARENT_75}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "category": "text-color",
+      "comment": "Link color on dark background - hover state"
+    },
+    "COLOR_TEXT_LINK_INVERSE_ACTIVE": {
+      "value": "{!WHITE_TRANSPARENT_50}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "category": "text-color",
+      "comment": "Link color on dark background - active state"
+    },
+    "COLOR_TEXT_LINK_INVERSE_DISABLED": {
+      "value": "{!WHITE_TRANSPARENT_15}",
+      "cssProperties": ["color", "border-bottom", "border-bottom-color"],
+      "category": "text-color",
+      "comment": "Link color on dark background - disabled state"
+    },
+    "COLOR_TEXT_MODAL": {
+      "value": "{!WHITE}",
+      "comment": "Modal header title"
+    },
+    "COLOR_TEXT_MODAL_BUTTON": {
+      "value": "{!KASHMIR_BLUE}",
+      "comment": "Modal header button text color"
+    },
+    "COLOR_TEXT_STAGE_LEFT": {
+      "value": "{!STEAM}",
+      "comment": "Text in stage left navigation."
+    },
+    "COLOR_TEXT_TAB_LABEL": {
+      "value": "{!BISCAY}",
+      "comment": "Color for default text in a tab group."
+    },
+    "COLOR_TEXT_TAB_LABEL_SELECTED": {
+      "value": "{!SCIENCE_BLUE}",
+      "comment": "Color for text on a selected tab in a tab group."
+    },
+    "COLOR_TEXT_TAB_LABEL_HOVER": {
+      "value": "{!ENDEAVOUR}",
+      "comment": "Color for text in hover state in a tab group."
+    },
+    "COLOR_TEXT_TAB_LABEL_FOCUS": {
+      "value": "{!ENDEAVOUR}",
+      "comment": "Color for text in focus state in a tab group."
+    },
+    "COLOR_TEXT_TAB_LABEL_ACTIVE": {
+      "value": "{!MIDNIGHT_BLUE}",
+      "comment": "Color for text in active state in a tab group."
+    },
+    "COLOR_TEXT_TAB_LABEL_DISABLED": {
+      "value": "{!STEAM}",
+      "comment": "Color for disabled text in a tab group."
+    },
+    "COLOR_TEXT_TOAST": {
+      "value": "{!STEAM}",
+      "comment": "Color for text on toast messages."
+    },
+    "COLOR_TEXT_WARNING": {
+      "value": "{!KOROMIKO}",
+      "cssProperties": ["color", "fill"],
+      "comment": "Color for texts or icons that are related to warnings."
+    },
+    "COLOR_TEXT_WEAK": {
+      "value": "{!KASHMIR_BLUE}",
+      "comment": "Color for text that is purposefully de-emphasized to create visual hierarchy."
+    },
+    "COLOR_TEXT_ICON_BRAND": {
+      "value": "{!SCIENCE_BLUE}",
+      "cssProperties": ["color", "fill"],
+      "comment": "Color for non-interactive icons that represent a selected item in a list"
+    }
+  }
+}

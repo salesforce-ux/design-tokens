@@ -1,0 +1,16 @@
+{
+  "global": {
+    "type": "opacity",
+    "category": "opacity",
+    "cssProperties": ["opacity"]
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "OPACITY_5": {
+      "value": "0.5",
+      "comment": "50% transparency of an element"
+    }
+  }
+}

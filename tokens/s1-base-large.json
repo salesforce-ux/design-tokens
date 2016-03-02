@@ -1,0 +1,60 @@
+{
+  "imports": [
+    "./force-base/aliases.json"
+  ],
+  "props": {
+    "FONT_SIZE_SMALL": {
+      "value": "0.75rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "FONT_SIZE_MEDIUM": {
+      "value": "0.875rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "FONT_SIZE_LARGE": {
+      "value": "1.125rem",
+      "type": "size",
+      "cssProperties": ["font", "font-size"],
+      "category": "font-size"
+    },
+    "LINE_HEIGHT_TEXT": {
+      "value": "1.5",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Unitless line-heights for reusabliity"
+    },
+    "WIDTH_STAGE_LEFT_COLLAPSED": {
+      "value": "4rem",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": ["width"],
+      "comment": "Stage left for desktop when closed (showing icons only)."
+    },
+    "WIDTH_STAGE_LEFT_EXPANDED": {
+      "value": "15rem",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": ["width"],
+      "comment": "Stage left for desktop when open."
+    },
+    "HEIGHT_HEADER": {
+      "value":"3.75rem",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": ["height"],
+      "comment": "Header for desktop."
+    },
+    "SQUARE_ICON_MEDIUM": {
+      "value":"2rem",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": ["width", "height"],
+      "comment": "Medium tap target size"
+    }
+  }
+}

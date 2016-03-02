@@ -1,0 +1,86 @@
+{
+  "properties": [
+    {
+      "value": "12",
+      "type": "size",
+      "cssProperties": [
+        "font",
+        "font-size"
+      ],
+      "category": "font-size",
+      "name": "fontSizeSmall"
+    },
+    {
+      "value": "14",
+      "type": "size",
+      "cssProperties": [
+        "font",
+        "font-size"
+      ],
+      "category": "font-size",
+      "name": "fontSizeMedium"
+    },
+    {
+      "value": "18",
+      "type": "size",
+      "cssProperties": [
+        "font",
+        "font-size"
+      ],
+      "category": "font-size",
+      "name": "fontSizeLarge"
+    },
+    {
+      "value": "1.5",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": [
+        "font",
+        "line-height"
+      ],
+      "comment": "Unitless line-heights for reusabliity",
+      "name": "lineHeightText"
+    },
+    {
+      "value": "64",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "width"
+      ],
+      "comment": "Stage left for desktop when closed (showing icons only).",
+      "name": "widthStageLeftCollapsed"
+    },
+    {
+      "value": "240",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "width"
+      ],
+      "comment": "Stage left for desktop when open.",
+      "name": "widthStageLeftExpanded"
+    },
+    {
+      "value": "60",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "height"
+      ],
+      "comment": "Header for desktop.",
+      "name": "heightHeader"
+    },
+    {
+      "value": "32",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": [
+        "width",
+        "height"
+      ],
+      "comment": "Medium tap target size",
+      "name": "squareIconMedium"
+    }
+  ]
+}

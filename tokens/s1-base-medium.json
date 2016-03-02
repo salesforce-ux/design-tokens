@@ -1,0 +1,13 @@
+{
+  "imports": [
+    "./force-base/aliases.json"
+  ],
+  "props": {
+    "WIDTH_STAGE_LEFT": {
+      "value": "250px",
+      "type": "size",
+      "category": "misc",
+      "cssProperties": ["width"]
+    }
+  }
+}

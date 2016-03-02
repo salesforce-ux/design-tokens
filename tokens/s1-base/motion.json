@@ -1,0 +1,12 @@
+{
+  "global": {
+    "category": "motion"
+  },
+  "props": {
+     "DURATION_SLIDE": {
+      "value": "0.25s",
+      "type": "time",
+      "cssProperties": ["animation", "animation-duration", "transition", "transition-delay", "transition-duration"]
+    }
+  }
+}
