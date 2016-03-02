@@ -1,6 +1,17 @@
 <aura:tokens extends="force:base">
   <aura:import name="one:actionBackgrounds" />
+  <aura:token name="colorBackgroundPathComplete" value="rgb(75, 202, 129)" property="background,background-color" />
+  <aura:token name="colorBackgroundPathCompleteHover" value="rgb(4, 132, 75)" property="background,background-color" />
+  <aura:token name="colorBackgroundPathCurrent" value="rgb(0, 112, 210)" property="background,background-color" />
+  <aura:token name="colorBackgroundPathCurrentHover" value="rgb(0, 95, 178)" property="background,background-color" />
+  <aura:token name="colorBackgroundPathIncomplete" value="rgb(224, 229, 238)" property="background,background-color" />
+  <aura:token name="colorBackgroundPathIncompleteHover" value="rgb(216, 221, 230)" property="background,background-color" />
+  <aura:token name="colorBackgroundPathLost" value="rgb(194, 57, 52)" property="background,background-color" />
+  <aura:token name="colorBackgroundGuidance" value="rgb(0, 0, 0)" property="background,background-color" />
+  <aura:token name="colorBorderPathDivider" value="rgb(255, 255, 255)" property="border,border-color,border-top,border-right,border-bottom,border-left,border-top-color,border-right-color,border-bottom-color,border-left-color" />
+  <aura:token name="lineHeightSalespath" value="1.5rem" property="font,line-height" />
   <aura:token name="durationSlide" value="0.25s" property="animation,animation-duration,transition,transition-delay,transition-duration" />
+  <aura:token name="heightSalesPath" value="2rem" property="width,height,min-width,max-width,min-height,max-height" />
   <aura:token name="widthStageLeft" value="88%" property="width,left" />
   <aura:token name="heightFooter" value="3.75rem" property="height,min-height,bottom,padding-bottom,transform" />
   <aura:token name="heightHeader" value="2.75rem" property="height,min-height,top,padding-top,transform" />

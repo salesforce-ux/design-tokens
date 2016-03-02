@@ -301,6 +301,12 @@
     },
     "MARKETING_ACTIONS": {
       "value": "#6bbd6e"
+    },
+    "HIERARCHY": {
+      "value": "#34becd"
+    },
+    "EMAIL_IQ": {
+      "value": "#a094ed"
     }
   }
 }

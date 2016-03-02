@@ -81,6 +81,7 @@
   <color name="COLOR_BORDER_SUCCESS" category="border-color">#ff4bca81</color>
   <color name="COLOR_BORDER_SUCCESS_DARK" category="border-color">#ff04844b</color>
   <color name="COLOR_BORDER_WARNING" category="border-color">#ffffb75d</color>
+  <color name="COLOR_BORDER_INVERSE" category="border-color">#ff061c3f</color>
   <color name="COLOR_BORDER_TAB_SELECTED" category="border-color">#ff0070d2</color>
   <color name="COLOR_BORDER_SEPARATOR" category="border-color">#fff4f6f9</color>
   <color name="COLOR_BORDER_SEPARATOR_ALT" category="border-color">#ffd8dde6</color>

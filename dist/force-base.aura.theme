@@ -82,6 +82,7 @@
   <aura:var name="colorBorderSuccess" value="rgb(75, 202, 129)" />
   <aura:var name="colorBorderSuccessDark" value="rgb(4, 132, 75)" />
   <aura:var name="colorBorderWarning" value="rgb(255, 183, 93)" />
+  <aura:var name="colorBorderInverse" value="rgb(6, 28, 63)" />
   <aura:var name="colorBorderTabSelected" value="rgb(0, 112, 210)" />
   <aura:var name="colorBorderSeparator" value="rgb(244, 246, 249)" />
   <aura:var name="colorBorderSeparatorAlt" value="rgb(216, 221, 230)" />

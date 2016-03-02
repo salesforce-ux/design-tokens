@@ -80,6 +80,7 @@ module.exports = {
   colorBorderSuccess: "rgb(75, 202, 129)",
   colorBorderSuccessDark: "rgb(4, 132, 75)",
   colorBorderWarning: "rgb(255, 183, 93)",
+  colorBorderInverse: "rgb(6, 28, 63)",
   colorBorderTabSelected: "rgb(0, 112, 210)",
   colorBorderSeparator: "rgb(244, 246, 249)",
   colorBorderSeparatorAlt: "rgb(216, 221, 230)",

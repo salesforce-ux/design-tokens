@@ -157,6 +157,13 @@
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color", "box-shadow"],
       "comment": "Border color for UI elements that have to do with warnings."
     },
+    "COLOR_BORDER_INVERSE": {
+      "value": "{!DEEP_COVE}",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
+      "comment": "Border color to match UI elements using color-background-inverse."
+    },
     "COLOR_BORDER_TAB_SELECTED": {
       "value": "{!SCIENCE_BLUE}",
       "type": "color",
@@ -164,8 +171,6 @@
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Border color for a selected tab in a tab group."
     },
-
-
     "COLOR_BORDER_SEPARATOR": {
       "value": "{!LINK_WATER}",
       "type": "color",
@@ -208,8 +213,6 @@
       "cssProperties": ["border", "border-color", "border-top", "border-right", "border-bottom", "border-left", "border-top-color", "border-right-color", "border-bottom-color", "border-left-color"],
       "comment": "Used as the border color for the hover state on selected rows or items on list-like components."
     },
-
-
     "COLOR_BORDER_HINT": {
       "value": "{!SAN_JUAN}",
       "type": "color",

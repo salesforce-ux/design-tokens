@@ -1,6 +1,17 @@
 <aura:theme extends="force:base">
   <aura:importTheme name="one:actionBackgrounds" />
+  <aura:var name="colorBackgroundPathComplete" value="rgb(75, 202, 129)" />
+  <aura:var name="colorBackgroundPathCompleteHover" value="rgb(4, 132, 75)" />
+  <aura:var name="colorBackgroundPathCurrent" value="rgb(0, 112, 210)" />
+  <aura:var name="colorBackgroundPathCurrentHover" value="rgb(0, 95, 178)" />
+  <aura:var name="colorBackgroundPathIncomplete" value="rgb(224, 229, 238)" />
+  <aura:var name="colorBackgroundPathIncompleteHover" value="rgb(216, 221, 230)" />
+  <aura:var name="colorBackgroundPathLost" value="rgb(194, 57, 52)" />
+  <aura:var name="colorBackgroundGuidance" value="rgb(0, 0, 0)" />
+  <aura:var name="colorBorderPathDivider" value="rgb(255, 255, 255)" />
+  <aura:var name="lineHeightSalespath" value="1.5rem" />
   <aura:var name="durationSlide" value="0.25s" />
+  <aura:var name="heightSalesPath" value="2rem" />
   <aura:var name="widthStageLeft" value="88%" />
   <aura:var name="heightFooter" value="3.75rem" />
   <aura:var name="heightHeader" value="2.75rem" />

@@ -1031,6 +1031,25 @@
       "name": "colorBorderWarning"
     },
     {
+      "comment": "Border color to match UI elements using color-background-inverse.",
+      "value": "rgb(6, 28, 63)",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": [
+        "border",
+        "border-color",
+        "border-top",
+        "border-right",
+        "border-bottom",
+        "border-left",
+        "border-top-color",
+        "border-right-color",
+        "border-bottom-color",
+        "border-left-color"
+      ],
+      "name": "colorBorderInverse"
+    },
+    {
       "comment": "Border color for a selected tab in a tab group.",
       "value": "rgb(0, 112, 210)",
       "type": "color",

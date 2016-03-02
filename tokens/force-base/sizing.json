@@ -36,8 +36,6 @@
       "value": "60rem",
       "comment": "Generic sizing token scale for UI components."
     },
-
-    
     "SQUARE_ICON_UTILITY_SMALL": {
       "value": "1rem",
       "comment": "Small utility icon without border."

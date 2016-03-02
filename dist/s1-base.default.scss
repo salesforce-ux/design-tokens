@@ -1,4 +1,15 @@
+$color-background-path-complete: rgb(75, 202, 129) !default;
+$color-background-path-complete-hover: rgb(4, 132, 75) !default;
+$color-background-path-current: rgb(0, 112, 210) !default;
+$color-background-path-current-hover: rgb(0, 95, 178) !default;
+$color-background-path-incomplete: rgb(224, 229, 238) !default;
+$color-background-path-incomplete-hover: rgb(216, 221, 230) !default;
+$color-background-path-lost: rgb(194, 57, 52) !default;
+$color-background-guidance: rgb(0, 0, 0) !default;
+$color-border-path-divider: rgb(255, 255, 255) !default;
+$line-height-salespath: 1.5rem !default;
 $duration-slide: 0.25s !default;
+$height-sales-path: 2rem !default;
 $width-stage-left: 88% !default;
 $height-footer: 3.75rem !default;
 $height-header: 2.75rem !default;
