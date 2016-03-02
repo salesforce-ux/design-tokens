@@ -1,0 +1,10 @@
+<aura:theme>
+  <aura:var name="fontSizeSmall" value="0.75rem" />
+  <aura:var name="fontSizeMedium" value="0.875rem" />
+  <aura:var name="fontSizeLarge" value="1.125rem" />
+  <aura:var name="lineHeightText" value="1.5" />
+  <aura:var name="widthStageLeftCollapsed" value="4rem" />
+  <aura:var name="widthStageLeftExpanded" value="15rem" />
+  <aura:var name="heightHeader" value="3.75rem" />
+  <aura:var name="squareIconMedium" value="2rem" />
+</aura:theme>

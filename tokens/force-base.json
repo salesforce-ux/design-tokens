@@ -1,0 +1,20 @@
+{
+  "imports": [
+    "./force-base/atmosphere-elevation.json",
+    "./force-base/atmosphere-shadow.json",
+    "./force-base/background.json",
+    "./force-base/border.json",
+    "./force-base/button.json",
+    "./force-base/font.json",
+    "./force-base/input.json",
+    "./force-base/messaging.json",
+    "./force-base/opacity.json",
+    "./force-base/shadow.json",
+    "./force-base/sizing.json",
+    "./force-base/spacing.json",
+    "./force-base/text.json",
+    "./force-base/time.json",
+    "./force-base/z-index.json"
+  ],
+  "auraImports": ["force:mqCommons", "force:fontCommons"]
+}

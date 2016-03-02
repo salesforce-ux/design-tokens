@@ -1,0 +1,167 @@
+{
+  "global": {
+    "type": "color",
+    "category": "background-color",
+    "cssProperties": ["background", "background-color"]
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "COLOR_BACKGROUND": {
+      "value": "{!LINK_WATER}",
+      "comment": "Default background color for the whole app."
+    },
+    "COLOR_BACKGROUND_ALT": {
+      "value": "{!WHITE}",
+      "comment": "Second default background color for the app."
+    },
+    "COLOR_BACKGROUND_ALT_2": {
+      "value": "{!WHITE_LILAC}",
+      "comment": "Used when further differentiation is needed because colorBackground and colorBackgroundAlt are both being used in close proximity."
+    },
+    "COLOR_BACKGROUND_ALT_INVERSE": {
+      "value": "{!BISCAY}",
+      "comment": "Alternative background color for dark portions of the app."
+    },
+    "COLOR_BACKGROUND_ROW_HOVER": {
+      "value": "{!LINK_WATER}",
+      "comment": "Used as the background color for the hover state on rows or items on list-like components."
+    },
+    "COLOR_BACKGROUND_ROW_ACTIVE": {
+      "value": "{!WHITE_LILAC}",
+      "comment": "Used as the background color for the active state on rows or items on list-like components."
+    },
+    "COLOR_BACKGROUND_ROW_SELECTED": {
+      "value": "{!FOAM}",
+      "comment": "Used as the background color for selected rows or items on list-like components."
+    },
+    "COLOR_BACKGROUND_ROW_NEW": {
+      "value": "{!SNOWY_MINT}",
+      "comment": "Used as the background color for the new state on rows or items on list-like components."
+    },
+    "COLOR_BACKGROUND_INVERSE": {
+      "value": "{!DEEP_COVE}",
+      "comment": "Default background color for dark portions of the app (like Stage Left or tooltips)."
+    },
+    "COLOR_BACKGROUND_ANCHOR": {
+      "value": "{!LINK_WATER}",
+      "comment": "Background color for the anchor area."
+    },
+    "COLOR_BACKGROUND_BROWSER": {
+      "value": "{!KASHMIR_BLUE}",
+      "comment": "Secondary top bar background color (child browser, file preview, etc.)"
+    },
+    "COLOR_BACKGROUND_CHROME_MOBILE": {
+      "value": "{!SCIENCE_BLUE}",
+      "comment": "Background color for default mobile chrome (ex. global header)"
+    },
+    "COLOR_BACKGROUND_CHROME_DESKTOP": {
+      "value": "{!WHITE}",
+      "comment": "Background color for default desktop chrome (ex. global header)"
+    },
+    "COLOR_BACKGROUND_CUSTOMER": {
+      "value": "{!TANGERINE}",
+      "comment": "Background color for UI elements related to the concept of an external user or customer."
+    },
+    "COLOR_BACKGROUND_HIGHLIGHT": {
+      "value": "{!LEMON_CHIFFON}",
+      "comment": "Background color for highlighting text."
+    },
+    "COLOR_BACKGROUND_ACTIONBAR_ICON_UTILITY": {
+      "value": "{!KASHMIR_BLUE}",
+      "comment": "Background for utility icons that live in the action bar on mobile."
+    },
+    "COLOR_BACKGROUND_INDICATOR_DOT": {
+      "value": "{!CASPER}",
+      "comment": "Color of the indicator dot.",
+      "deprecated": true
+    },
+    "COLOR_BACKGROUND_MODAL": {
+      "value": "{!WHITE}",
+      "comment": "Standard modal header"
+    },
+    "COLOR_BACKGROUND_MODAL_BRAND": {
+      "value": "{!SCIENCE_BLUE}",
+      "comment": "Brandable modal header"
+    },
+    "COLOR_BACKGROUND_NOTIFICATION_BADGE": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "comment": "Notifications badge background color."
+    },
+    "COLOR_BACKGROUND_NOTIFICATION_BADGE_HOVER": {
+      "value": "{!ENDEAVOUR}",
+      "comment": "Notifications badge background color."
+    },
+    "COLOR_BACKGROUND_NOTIFICATION_BADGE_FOCUS": {
+      "value": "{!ENDEAVOUR}",
+      "comment": "Notifications badge background color."
+    },
+    "COLOR_BACKGROUND_NOTIFICATION_BADGE_ACTIVE": {
+      "value": "{!MIDNIGHT_BLUE}",
+      "comment": "Notifications badge background color."
+    },
+    "COLOR_BACKGROUND_NOTIFICATION_NEW": {
+      "value": "{!FOAM}",
+      "comment": "Background color for a new notification list item."
+    },
+    "COLOR_BACKGROUND_ORG_SWITCHER_ARROW": {
+      "value": "{!DEEP_COVE}",
+      "comment": "Stage left org switcher dropdown arrow background color."
+    },
+    "COLOR_BACKGROUND_PAYLOAD": {
+      "value": "{!LINK_WATER}",
+      "comment": "Background color for payloads in the feed."
+    },
+    "COLOR_BACKGROUND_SHADE": {
+      "value": "{!STEAM}",
+      "specificity": "builders",
+      "comment": "Used as gray background when more contrast is desired."
+    },
+    "COLOR_BACKGROUND_SHADE_DARK": {
+      "value": "{!GEYSER}",
+      "specificity": "builders",
+      "comment": "Used as gray background in conjunction with Shade when more contrast is desired."
+    },
+    "COLOR_BACKGROUND_STENCIL": {
+      "value": "{!WHITE_LILAC}",
+      "comment": "Used as background for loading stencils on white background."
+    },
+    "COLOR_BACKGROUND_STENCIL_ALT": {
+      "value": "{!STEAM}",
+      "comment": "Used as an alternate background for loading stencils on gray backgrounds."
+    },
+    "COLOR_BACKGROUND_TEMP_MODAL": {
+      "value": "{!REGENT_GREY_TRANSPARENT_80}",
+      "comment": "Used as the default background color for temporary dialog elements, such as the progress spinner background."
+    },
+    "COLOR_BACKGROUND_TEMP_MODAL_TINT": {
+      "value": "{!REGENT_GREY_TRANSPARENT_80}",
+      "comment": "The color of the mask overlay that appears when you enter a modal state."
+    },
+    "COLOR_BACKGROUND_TEMP_MODAL_TINT_ALT": {
+      "value": "{!WHITE_TRANSPARENT_75}",
+      "comment": "The color of the mask overlay that appears when you enter a modal state."
+    },
+    "COLOR_BACKGROUND_SCROLLBAR": {
+      "value": "{!STEAM}",
+      "comment": "The background color of an internal scrollbar."
+    },
+    "COLOR_BACKGROUND_SCROLLBAR_TRACK": {
+      "value": "{!CADET_BLUE}",
+      "comment": "The background color of an internal scrollbar track."
+    },
+    "COLOR_BRAND": {
+      "value": "{!AZURE}",
+      "comment": "Our product brand blue."
+    },
+    "COLOR_BRAND_DARK": {
+      "value": "{!SCIENCE_BLUE}",
+      "comment": "Our product brand blue, darkened to meet accessibility color contrast ratios with white text."
+    },
+    "COLOR_BRAND_DARKER": {
+      "value": "{!ENDEAVOUR}",
+      "comment": "Our product brand blue, darkened even further."
+    }
+  }
+}
