@@ -107,7 +107,7 @@
       "comment": "Large tap target size",
       "deprecated": true
     },
-    "HEIGHT-SALES-PATH": {
+    "HEIGHT_SALES_PATH": {
       "value": "2rem",
       "type": "size",
       "category": "misc",
