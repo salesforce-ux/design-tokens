@@ -12,7 +12,7 @@
     "start": "gulp dev",
     "lint": "gulp lint",
     "tokens": "gulp tokens",
-    "release-dist": "gulp release:dist",
+    "release": "gulp release",
     "prepublish": "npm run tokens"
   },
   "devDependencies": {

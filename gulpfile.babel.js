@@ -58,7 +58,7 @@ gulp.task('tokens', ['clean', 'lint'], (done) => {
   async.each(options, convert, done);
 });
 
-gulp.task('release:dist', ['tokens'], (done) => {
+gulp.task('release', ['tokens'], (done) => {
   let { version } = require('./package.json');
   let exec = ([command, dir = '.'], callback) => {
     require('child_process').exec(command, {
@@ -73,9 +73,9 @@ gulp.task('release:dist', ['tokens'], (done) => {
     ['git init', 'dist-npm/package'],
     ['cp .git/config dist-npm/package/.git'],
     ['git add -A', 'dist-npm/package'],
-    [`git commit -m "Release ${version} (dist)"`, 'dist-npm/package'],
-    [`git tag v${version}-dist`, 'dist-npm/package'],
-    [`git push origin --tags v${version}-dist`, 'dist-npm/package']
+    [`git commit -m "Release ${version}"`, 'dist-npm/package'],
+    [`git tag v${version}`, 'dist-npm/package'],
+    [`git push origin --tags v${version}`, 'dist-npm/package']
   ], exec, (err) => {
     if (err) throw err;
     done();
