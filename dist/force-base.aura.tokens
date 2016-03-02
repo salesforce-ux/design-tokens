@@ -140,7 +140,22 @@
   <aura:token name="colorBorderButtonBrandDisabled" value="rgba(0, 0, 0, 0)" property="border,border-color,border-top-color,border-right-color,border-bottom-color,border-left-color" />
   <aura:token name="colorBorderButtonDefault" value="rgb(216, 221, 230)" property="border,border-color,border-top-color,border-right-color,border-bottom-color,border-left-color" />
   <aura:token name="colorBorderButtonInverseDisabled" value="rgba(255, 255, 255, 0.15)" property="border,border-color,border-top-color,border-right-color,border-bottom-color,border-left-color" />
-  <aura:token name="lineHeightSalespath" value="1.5rem" property="font,line-height" />
+  <aura:token name="fontFamily" value="'Salesforce Sans', Arial, sans-serif" property="font,font-family" />
+  <aura:token name="fontWeightLight" value="300" property="font,font-weight" />
+  <aura:token name="fontWeightRegular" value="400" property="font,font-weight" />
+  <aura:token name="fontWeightBold" value="700" property="font,font-weight" />
+  <aura:token name="fontSizeXSmall" value="0.625rem" property="font,font-size" />
+  <aura:token name="fontSizeSmall" value="0.875rem" property="font,font-size" />
+  <aura:token name="fontSizeMedium" value="1rem" property="font,font-size" />
+  <aura:token name="fontSizeLarge" value="1.25rem" property="font,font-size" />
+  <aura:token name="fontSizeXLarge" value="1.5rem" property="font,font-size" />
+  <aura:token name="fontSizeXxLarge" value="2rem" property="font,font-size" />
+  <aura:token name="lineHeightHeading" value="1.25" property="font,line-height" />
+  <aura:token name="lineHeightText" value="1.375" property="font,line-height" />
+  <aura:token name="lineHeightReset" value="1" property="font,line-height" />
+  <aura:token name="lineHeightTab" value="3rem" property="font,line-height" />
+  <aura:token name="lineHeightButton" value="2.125rem" property="font,line-height" />
+  <aura:token name="lineHeightButtonSmall" value="1.75rem" property="font,line-height" />
   <aura:token name="colorBackgroundInput" value="rgb(255, 255, 255)" property="background,background-color" />
   <aura:token name="colorBackgroundInputActive" value="rgb(255, 255, 255)" property="background,background-color" />
   <aura:token name="colorBackgroundInputCheckbox" value="rgb(255, 255, 255)" property="background,background-color" />
