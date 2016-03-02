@@ -82,6 +82,7 @@
   <aura:var name="colorBorderSuccess" value="rgb(75, 202, 129)" />
   <aura:var name="colorBorderSuccessDark" value="rgb(4, 132, 75)" />
   <aura:var name="colorBorderWarning" value="rgb(255, 183, 93)" />
+  <aura:var name="colorBorderInverse" value="rgb(6, 28, 63)" />
   <aura:var name="colorBorderTabSelected" value="rgb(0, 112, 210)" />
   <aura:var name="colorBorderSeparator" value="rgb(244, 246, 249)" />
   <aura:var name="colorBorderSeparatorAlt" value="rgb(216, 221, 230)" />
@@ -139,22 +140,7 @@
   <aura:var name="colorBorderButtonBrandDisabled" value="rgba(0, 0, 0, 0)" />
   <aura:var name="colorBorderButtonDefault" value="rgb(216, 221, 230)" />
   <aura:var name="colorBorderButtonInverseDisabled" value="rgba(255, 255, 255, 0.15)" />
-  <aura:var name="fontFamily" value="'Salesforce Sans', Arial, sans-serif" />
-  <aura:var name="fontWeightLight" value="300" />
-  <aura:var name="fontWeightRegular" value="400" />
-  <aura:var name="fontWeightBold" value="700" />
-  <aura:var name="fontSizeXSmall" value="0.625rem" />
-  <aura:var name="fontSizeSmall" value="0.875rem" />
-  <aura:var name="fontSizeMedium" value="1rem" />
-  <aura:var name="fontSizeLarge" value="1.25rem" />
-  <aura:var name="fontSizeXLarge" value="1.5rem" />
-  <aura:var name="fontSizeXxLarge" value="2rem" />
-  <aura:var name="lineHeightHeading" value="1.25" />
-  <aura:var name="lineHeightText" value="1.375" />
-  <aura:var name="lineHeightReset" value="1" />
-  <aura:var name="lineHeightTab" value="3rem" />
-  <aura:var name="lineHeightButton" value="2.125rem" />
-  <aura:var name="lineHeightButtonSmall" value="1.75rem" />
+  <aura:var name="lineHeightSalespath" value="1.5rem" />
   <aura:var name="colorBackgroundInput" value="rgb(255, 255, 255)" />
   <aura:var name="colorBackgroundInputActive" value="rgb(255, 255, 255)" />
   <aura:var name="colorBackgroundInputCheckbox" value="rgb(255, 255, 255)" />

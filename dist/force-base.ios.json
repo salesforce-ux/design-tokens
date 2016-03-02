@@ -1031,6 +1031,25 @@
       "name": "colorBorderWarning"
     },
     {
+      "comment": "Border color to match UI elements using color-background-inverse.",
+      "value": "rgb(6, 28, 63)",
+      "type": "color",
+      "category": "border-color",
+      "cssProperties": [
+        "border",
+        "border-color",
+        "border-top",
+        "border-right",
+        "border-bottom",
+        "border-left",
+        "border-top-color",
+        "border-right-color",
+        "border-bottom-color",
+        "border-left-color"
+      ],
+      "name": "colorBorderInverse"
+    },
+    {
       "comment": "Border color for a selected tab in a tab group.",
       "value": "rgb(0, 112, 210)",
       "type": "color",
@@ -1774,180 +1793,15 @@
       "name": "colorBorderButtonInverseDisabled"
     },
     {
-      "category": "font",
-      "comment": "",
-      "value": "'Salesforce Sans', Arial, sans-serif",
-      "type": "font",
-      "cssProperties": [
-        "font",
-        "font-family"
-      ],
-      "name": "fontFamily"
-    },
-    {
-      "category": "font",
-      "comment": "Use for large headings only.",
-      "value": "300",
-      "cssProperties": [
-        "font",
-        "font-weight"
-      ],
-      "type": "font-weight",
-      "name": "fontWeightLight"
-    },
-    {
-      "category": "font",
-      "comment": "Most all body copy.",
-      "value": "400",
-      "cssProperties": [
-        "font",
-        "font-weight"
-      ],
-      "type": "font-weight",
-      "name": "fontWeightRegular"
-    },
-    {
-      "category": "font",
-      "comment": "Used sparingly for emphasized text within regular body copy.",
-      "value": "700",
-      "cssProperties": [
-        "font",
-        "font-weight"
-      ],
-      "type": "font-weight",
-      "name": "fontWeightBold"
-    },
-    {
-      "category": "font-size",
-      "comment": "",
-      "value": "10",
-      "type": "size",
-      "cssProperties": [
-        "font",
-        "font-size"
-      ],
-      "name": "fontSizeXSmall"
-    },
-    {
-      "category": "font-size",
-      "comment": "",
-      "value": "14",
-      "type": "size",
-      "cssProperties": [
-        "font",
-        "font-size"
-      ],
-      "name": "fontSizeSmall"
-    },
-    {
-      "category": "font-size",
-      "comment": "",
-      "value": "16",
-      "type": "size",
-      "cssProperties": [
-        "font",
-        "font-size"
-      ],
-      "name": "fontSizeMedium"
-    },
-    {
-      "category": "font-size",
-      "comment": "",
-      "value": "20",
-      "type": "size",
-      "cssProperties": [
-        "font",
-        "font-size"
-      ],
-      "name": "fontSizeLarge"
-    },
-    {
-      "category": "font-size",
-      "comment": "",
+      "category": "line-height",
+      "comment": "Line heights for salespath",
       "value": "24",
-      "type": "size",
-      "cssProperties": [
-        "font",
-        "font-size"
-      ],
-      "name": "fontSizeXLarge"
-    },
-    {
-      "category": "font-size",
-      "comment": "",
-      "value": "32",
-      "type": "size",
-      "cssProperties": [
-        "font",
-        "font-size"
-      ],
-      "name": "fontSizeXxLarge"
-    },
-    {
-      "category": "line-height",
-      "comment": "Unitless line-heights for reusabliity",
-      "value": "1.25",
       "type": "number",
       "cssProperties": [
         "font",
         "line-height"
       ],
-      "name": "lineHeightHeading"
-    },
-    {
-      "category": "line-height",
-      "comment": "Unitless line-heights for reusabliity",
-      "value": "1.375",
-      "type": "number",
-      "cssProperties": [
-        "font",
-        "line-height"
-      ],
-      "name": "lineHeightText"
-    },
-    {
-      "category": "line-height",
-      "comment": "Remove extra leading. Unitless line-heights for reusabliity",
-      "value": "1",
-      "type": "number",
-      "cssProperties": [
-        "font",
-        "line-height"
-      ],
-      "name": "lineHeightReset"
-    },
-    {
-      "category": "line-height",
-      "comment": "Line heights for tabs",
-      "value": "48",
-      "type": "number",
-      "cssProperties": [
-        "font",
-        "line-height"
-      ],
-      "name": "lineHeightTab"
-    },
-    {
-      "category": "line-height",
-      "comment": "Line heights for regular buttons",
-      "value": "34",
-      "type": "number",
-      "cssProperties": [
-        "font",
-        "line-height"
-      ],
-      "name": "lineHeightButton"
-    },
-    {
-      "category": "line-height",
-      "comment": "Line heights for small buttons",
-      "value": "28",
-      "type": "number",
-      "cssProperties": [
-        "font",
-        "line-height"
-      ],
-      "name": "lineHeightButtonSmall"
+      "name": "lineHeightSalespath"
     },
     {
       "type": "color",
