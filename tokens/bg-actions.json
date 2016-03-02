@@ -224,7 +224,7 @@
     "ACTION_MORE": {
       "value": "#62B7ED"
     },
-    "ACTION_NOTEBOOK": {
+    "ACTION_NEW_NOTEBOOK": {
       "value": "#E6D478"
     },
     "ACTION_PREVIEW": {
@@ -568,6 +568,9 @@
     },
     "ACTION_RECORD": {
       "value": "#7dc37d"
+    },
+    "ACTION_LOG_EVENT": {
+      "value": "#6ca1e9"
     }
   }
 }
