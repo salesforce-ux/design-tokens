@@ -1,0 +1,15 @@
+{
+  "global": {
+    "category": "font",
+    "comment": ""
+  },
+  "props": {
+    "LINE_HEIGHT_SALESPATH": {
+      "value": "1.5rem",
+      "type": "number",
+      "category": "line-height",
+      "cssProperties": ["font", "line-height"],
+      "comment": "Line heights for salespath"
+    }
+  }
+}

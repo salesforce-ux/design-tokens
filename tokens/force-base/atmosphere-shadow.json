@@ -1,0 +1,68 @@
+{
+  "global": {
+    "type": "box-shadow",
+    "category": "atmosphere",
+    "cssProperties": ["box-shadow"]
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "ELEVATION_SHADOW_3_BELOW": {
+      "value": "inset 0px 3px 3px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "-3 elevation"
+    },
+    "ELEVATION_SHADOW_0": {
+      "value": "none",
+      "comment": "0 elevation"
+    },
+    "ELEVATION_SHADOW_2": {
+      "value": "0px 2px 2px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "2 elevation"
+    },
+    "ELEVATION_SHADOW_4": {
+      "value": "0px 4px 4px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "4 elevation"
+    },
+    "ELEVATION_SHADOW_8": {
+      "value": "0px 8px 8px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "8 elevation"
+    },
+    "ELEVATION_SHADOW_16": {
+      "value": "0px 16px 16px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "16 elevation"
+    },
+    "ELEVATION_SHADOW_32": {
+      "value": "0px 32px 32px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "32 elevation"
+    },
+    "ELEVATION_INVERSE_SHADOW_3_BELOW": {
+      "value": "inset 0px -3px 3px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "-3 elevation"
+    },
+    "ELEVATION_INVERSE_SHADOW_0": {
+      "value": "none",
+      "comment": "0 elevation"
+    },
+    "ELEVATION_INVERSE_SHADOW_2": {
+      "value": "0px -2px 2px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "2 elevation"
+    },
+    "ELEVATION_INVERSE_SHADOW_4": {
+      "value": "0px -4px 4px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "4 elevation"
+    },
+    "ELEVATION_INVERSE_SHADOW_8": {
+      "value": "0px -8px 8px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "8 elevation"
+    },
+    "ELEVATION_INVERSE_SHADOW_16": {
+      "value": "0px -16px 16px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "16 elevation"
+    },
+    "ELEVATION_INVERSE_SHADOW_32": {
+      "value": "0px -32px 32px 0px {!BLACK_TRANSPARENT_16}",
+      "comment": "32 elevation"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "global": {
+    "type": "color",
+    "category": "",
+    "cssProperties": ["background", "background-color"]
+  },
+  "imports": [
+    "./aliases.json"
+  ],
+  "props": {
+    "COLOR_BACKGROUND_DESTRUCTIVE": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "category": "background-color",
+      "comment": "Color for UI elements related to destructive actions."
+    },
+    "COLOR_BACKGROUND_DESTRUCTIVE_HOVER": {
+      "value": "{!TABASCO}",
+      "category": "background-color",
+      "comment": "Hover color for UI elements related to destructive actions."
+    },
+    "COLOR_BACKGROUND_DESTRUCTIVE_ACTIVE": {
+      "value": "{!MAROON}",
+      "category": "background-color",
+      "comment": "Active color for UI elements related to destructive actions."
+    },
+    "COLOR_BACKGROUND_INFO": {
+      "value": "{!KASHMIR_BLUE}",
+      "category": "background-color",
+      "comment": "Background color for UI elements related to providing neutral information (not error, success, or warning)."
+    },
+    "COLOR_BACKGROUND_ERROR": {
+      "value": "{!VALENCIA}",
+      "category": "background-color",
+      "comment": "Color for UI elements related to errors."
+    },
+    "COLOR_BACKGROUND_ERROR_DARK": {
+      "value": "{!FLUSH_MAHOGANY}",
+      "category": "background-color",
+      "comment": "Dark color for UI elements related to errors. Accessible with white text."
+    },
+    "COLOR_BACKGROUND_ERROR_ALT": {
+      "value": "{!DEEP_BLUSH}",
+      "category": "background-color",
+      "comment": "Alternative color for UI elements related to errors.",
+      "deprecated": true
+    },
+    "COLOR_BACKGROUND_OFFLINE": {
+      "value": "{!TUNDORA}",
+      "category": "background-color",
+      "comment": "Color for UI elements related to the offline state."
+    },
+    "COLOR_BACKGROUND_SUCCESS": {
+      "value": "{!EMERALD}",
+      "category": "background-color",
+      "comment": "Color for UI elements that have to do with success."
+    },
+    "COLOR_BACKGROUND_SUCCESS_DARK": {
+      "value": "{!SALEM}",
+      "category": "background-color",
+      "comment": "Dark color for UI elements that have to do with success. Accessible with white text."
+    },
+    "COLOR_BACKGROUND_TOAST": {
+      "value": "{!KASHMIR_BLUE_TRANSPARENT_95}",
+      "category": "background-color",
+      "comment": "Background color for toast messaging."
+    },
+    "COLOR_BACKGROUND_TOAST_SUCCESS": {
+      "value": "{!SALEM_TRANSPARENT_95}",
+      "category": "background-color",
+      "comment": "Background color for success toast messaging."
+    },
+    "COLOR_BACKGROUND_TOAST_ERROR": {
+      "value": "{!FLUSH_MAHOGANY_TRANSPARENT_95}",
+      "category": "background-color",
+      "comment": "Background color for error toast messaging."
+    },
+    "COLOR_BACKGROUND_WARNING": {
+      "value": "{!KOROMIKO}",
+      "category": "background-color",
+      "comment": "Color for UI elements that have to do with warning."
+    }
+  }
+}

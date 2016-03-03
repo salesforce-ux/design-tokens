@@ -1,0 +1,73 @@
+<aura:theme>
+  <aura:var name="spacingNone" value="0" />
+  <aura:var name="spacingXxxSmall" value="0.125rem" />
+  <aura:var name="spacingXxSmall" value="0.25rem" />
+  <aura:var name="spacingXSmall" value="0.5rem" />
+  <aura:var name="spacingSmall" value="0.75rem" />
+  <aura:var name="spacingMedium" value="1rem" />
+  <aura:var name="spacingLarge" value="2rem" />
+  <aura:var name="spacingXLarge" value="4rem" />
+  <aura:var name="fontFamilyBody" value="'Salesforce Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif" />
+  <aura:var name="fontWeightLight" value="300" />
+  <aura:var name="fontWeightRegular" value="400" />
+  <aura:var name="fontWeightBold" value="700" />
+  <aura:var name="fontSizeXSmall" value="0.625rem" />
+  <aura:var name="fontSizeSmall" value="0.75rem" />
+  <aura:var name="fontSizeXMedium" value="0.875rem" />
+  <aura:var name="fontSizeMedium" value="1rem" />
+  <aura:var name="fontSizeLarge" value="1.125rem" />
+  <aura:var name="fontSizeXLarge" value="1.25rem" />
+  <aura:var name="fontSizeXxLarge" value="1.5rem" />
+  <aura:var name="borderRadiusSmall" value=".125rem" />
+  <aura:var name="borderRadiusMedium" value=".25rem" />
+  <aura:var name="borderRadiusLarge" value=".5rem" />
+  <aura:var name="borderRadiusPill" value="5rem" />
+  <aura:var name="borderRadiusCircle" value="50%" />
+  <aura:var name="spacingXxLarge" value="8rem" />
+  <aura:var name="lineHeightReset" value="1" />
+  <aura:var name="lineHeightHeading" value="1.25" />
+  <aura:var name="lineHeightText" value="1.5" />
+  <aura:var name="mqSmall" value="only screen and (min-width: 28em)" />
+  <aura:var name="mqMedium" value="only screen and (min-width: 48em)" />
+  <aura:var name="mqLarge" value="only screen and (min-width: 64em)" />
+  <aura:var name="mqXLarge" value="only screen and (min-width: 80em)" />
+  <aura:var name="timing1" value=".1s" />
+  <aura:var name="timing2" value=".2s" />
+  <aura:var name="timing3" value=".4s" />
+  <aura:var name="timing4" value=".6s" />
+  <aura:var name="timing5" value=".8s" />
+  <aura:var name="timingTest" value="5s" />
+  <aura:var name="colorWhite" value="rgb(255, 255, 255)" />
+  <aura:var name="colorGreenSea100" value="rgb(53, 212, 204)" />
+  <aura:var name="colorGreenSea300" value="rgb(46, 194, 186)" />
+  <aura:var name="colorGreenSea500" value="rgb(39, 171, 164)" />
+  <aura:var name="colorGreenSea700" value="rgb(32, 150, 145)" />
+  <aura:var name="colorGreenSea900" value="rgb(27, 130, 125)" />
+  <aura:var name="colorBlueSky100" value="rgb(108, 183, 250)" />
+  <aura:var name="colorBlueSky300" value="rgb(68, 162, 245)" />
+  <aura:var name="colorBlueSky500" value="rgb(45, 147, 237)" />
+  <aura:var name="colorBlueSky700" value="rgb(32, 129, 214)" />
+  <aura:var name="colorBlueSky900" value="rgb(25, 112, 189)" />
+  <aura:var name="colorPurpleRain100" value="rgb(173, 144, 245)" />
+  <aura:var name="colorPurpleRain300" value="rgb(146, 113, 232)" />
+  <aura:var name="colorPurpleRain500" value="rgb(122, 86, 214)" />
+  <aura:var name="colorPurpleRain700" value="rgb(100, 63, 192)" />
+  <aura:var name="colorPurpleRain900" value="rgb(89, 65, 149)" />
+  <aura:var name="colorBlueAthens" value="rgb(242, 246, 250)" />
+  <aura:var name="colorBlueSparta" value="rgb(230, 236, 242)" />
+  <aura:var name="colorBlueRome" value="rgb(197, 211, 224)" />
+  <aura:var name="colorBlueSpider" value="rgb(163, 184, 204)" />
+  <aura:var name="colorBlueGhost" value="rgb(125, 152, 179)" />
+  <aura:var name="colorBlueAluminium" value="rgb(92, 122, 153)" />
+  <aura:var name="colorBlueRollingstone" value="rgb(64, 96, 127)" />
+  <aura:var name="colorBlueRhino" value="rgb(41, 71, 102)" />
+  <aura:var name="colorBlueZodiac" value="rgb(23, 50, 77)" />
+  <aura:var name="colorBlueBigstoneBlue" value="rgb(10, 31, 51)" />
+  <aura:var name="colorOrangeAlert" value="rgb(255, 183, 93)" />
+  <aura:var name="colorRedError" value="rgb(212, 80, 76)" />
+  <aura:var name="colorGreenSuccess" value="rgb(75, 202, 129)" />
+  <aura:var name="colorBlueScience" value="rgb(0, 112, 210)" />
+  <aura:var name="colorBlueEndeavour" value="rgb(0, 95, 178)" />
+  <aura:var name="colorBlueMidnightBlue" value="rgb(0, 57, 107)" />
+  <aura:var name="colorBlueBiscay" value="rgb(22, 50, 92)" />
+</aura:theme>

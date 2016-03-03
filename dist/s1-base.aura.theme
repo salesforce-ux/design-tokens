@@ -1,0 +1,33 @@
+<aura:theme extends="force:base">
+  <aura:importTheme name="one:actionBackgrounds" />
+  <aura:var name="colorBackgroundPathComplete" value="rgb(75, 202, 129)" />
+  <aura:var name="colorBackgroundPathCompleteHover" value="rgb(4, 132, 75)" />
+  <aura:var name="colorBackgroundPathCurrent" value="rgb(0, 112, 210)" />
+  <aura:var name="colorBackgroundPathCurrentHover" value="rgb(0, 95, 178)" />
+  <aura:var name="colorBackgroundPathIncomplete" value="rgb(224, 229, 238)" />
+  <aura:var name="colorBackgroundPathIncompleteHover" value="rgb(216, 221, 230)" />
+  <aura:var name="colorBackgroundPathLost" value="rgb(194, 57, 52)" />
+  <aura:var name="colorBackgroundGuidance" value="rgb(0, 0, 0)" />
+  <aura:var name="colorBorderPathDivider" value="rgb(255, 255, 255)" />
+  <aura:var name="lineHeightSalespath" value="1.5rem" />
+  <aura:var name="durationSlide" value="0.25s" />
+  <aura:var name="heightSalesPath" value="2rem" />
+  <aura:var name="widthStageLeft" value="88%" />
+  <aura:var name="heightFooter" value="3.75rem" />
+  <aura:var name="heightHeader" value="2.75rem" />
+  <aura:var name="heightInput" value="1.875rem" />
+  <aura:var name="heightOverflowStart" value="144px" />
+  <aura:var name="maxHeightActionOverflowMenu" value="628px" />
+  <aura:var name="maxHeightCardMedia" value="144px" />
+  <aura:var name="maxHeightHeaderBrand" value="32px" />
+  <aura:var name="maxWidthActionBar" value="600px" />
+  <aura:var name="maxWidthActionBarItem" value="120px" />
+  <aura:var name="maxWidthActionBarWithLabels" value="320px" />
+  <aura:var name="maxWidthActionOverflowMenu" value="512px" />
+  <aura:var name="maxWidthHeaderBrand" value="156px" />
+  <aura:var name="squareRecordAnchorPic" value="3rem" />
+  <aura:var name="squareTappable" value="2.75rem" />
+  <aura:var name="flexMasterPanel" value="7" />
+  <aura:var name="squareTooltip" value="1.25rem" />
+  <aura:var name="flexDetailPanel" value="3" />
+</aura:theme>
