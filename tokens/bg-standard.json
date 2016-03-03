@@ -307,6 +307,9 @@
     },
     "EMAIL_IQ": {
       "value": "#a094ed"
+    },
+    "FOLDER": {
+      "value": "#8B9AE3"
     }
   }
 }

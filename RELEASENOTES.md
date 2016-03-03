@@ -1,5 +1,13 @@
+# Release 2.0.5 - March 2, 2016
+
+** Added **
+
+## bg-standard.json
+- FOLDER
+
 # Release 2.0.4 - March 2, 2016
 
+## bg-actions.json
 ** Added **
 - ACTION_NEW_NOTEBOOK
 - ACTION_LOG_EVENT
