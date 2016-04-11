@@ -1,17 +1,5 @@
 # Salesforce Design Tokens
 
-Design Tokens for colors, spacing, font, etc.
+**Deprecated**: design tokens are now distributed as part of the [Salesforce Lightning Design System](https://www.lightningdesignsystem.com) and the latest version is also available on npm:
 
-## Setup
-
-```bash
-npm install
-```
-
-## Generate Design Tokens
-
-```bash
-npm run tokens
-```
-
-View the `./dist` directory for the generated output
+<https://www.npmjs.com/package/@salesforce-ux/design-tokens>
